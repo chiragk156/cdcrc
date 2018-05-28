@@ -1,9 +1,10 @@
 <?php
 $myfile = fopen("latex/new.tex", "w") or die("Unable to open file!");
-$name = $_POST["name"];
-$add = $_POST["add"];
-$email = $_POST["email"];
-$mob = $_POST["mob"];
+$fields = count($_POST["name"]);
+$data = $_POST["name"];
+$sections = $_POST["count"];
+$name = $_POST["pname"];
+$temp = $_POST["temp"];
 $txt = "\documentclass[a4paper,10pt]{article}
 \usepackage{marvosym}
 \usepackage{fontspec}
@@ -37,13 +38,35 @@ ItalicFont = Fontin-Italic.otf
 \par{\centering
 		{\Huge ".$name."
 	}\bigskip\par}
-\section{Personal Data}
+";
+
+for($i=0; $i<$sections; $i++){
+	if ($i==0) {
+		$txt = $txt."\section{Personal Data}
 \begin{tabular}{rl}
-\\textsc{Address:}&".$add."\\\
-\\textsc{Mobile:}&".$mob."\\\
-\\textsc{Email:} & \href{mailto:".$email."}{".$email."}\\\
-\\end{tabular}
-\\end{document}";
+";
+	}
+	else{
+		$txt = $txt."\section{".$data[$temp[2*$i]-1]."}
+\begin{tabular}{rl}
+";
+	}
+	for ($j=$temp[2*$i]; $j < $temp[2*($i+1)]-1; $j+=2) { 
+		$txt = $txt."\\textsc{".$data[$j]."}&".$data[$j+1]."\\\
+";
+	}
+	$txt=$txt."\\end{tabular}
+";
+}
+// \section{Personal Data}
+// \begin{tabular}{rl}
+// \\textsc{Address:}&".$add."\\\
+// \\textsc{Mobile:}&".$mob."\\\
+// \\textsc{Email:} & \href{mailto:".$email."}{".$email."}\\\
+// \\end{tabular}
+
+
+$txt = $txt."\\end{document}";
 
 fwrite($myfile, $txt);
 fclose($myfile);
