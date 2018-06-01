@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Course</title>
+<title>IIT Ropar | CDCRC</title>
+<link rel="shortcut icon" href="images/iitlogo.png" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Course Project">
@@ -148,9 +149,9 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<img src="images/earth-globe.svg" class="svg" alt="">
+							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Online Courses</h2>
+								<h2 class="hero_box_title">Carrier Development</h2>
 								<a href="courses.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
@@ -158,9 +159,9 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<img src="images/books.svg" class="svg" alt="">
+							<!-- <img src="images/books.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Library</h2>
+								<h2 class="hero_box_title">Training & Placement</h2>
 								<a href="courses.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
@@ -168,9 +169,9 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<img src="images/professor.svg" class="svg" alt="">
+							<!-- <img src="images/professor.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Our Teachers</h2>
+								<h2 class="hero_box_title">Corporate Relations							</h2>
 								<a href="teachers.html" class="hero_box_link">view more</a>
 							</div>
 						</div>
@@ -178,25 +179,75 @@
 
 				</div>
 			</div>
+			<marquee style="color: #FFFFFF; background: #21618C; margin-top: 25px;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3><a href="#" style="color: #FFFFFF">Events</a></h3></marquee>
 		</div>
-		<marquee style="color: #FFFFFF; background: #21618C;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3>walla dabba lub lub</h3></marquee>
+		<!-- <h3 style="width:10%; display:inline-block; float: left; background: #FFFFFF; color: #21618C; padding-left: 10px;">Events:</h3><marquee style="color: #FFFFFF; background: #21618C; width:90%; display:inline-block; float: right;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3>Events</h3></marquee> -->
 	</div>
 
 	<!-- Popular -->
 
 	<div class="popular page_section">
 		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Popular Courses</h1>
-					</div>
-				</div>
-			</div>
+			<div class="row" style="color: #535b60;">
+				  <div class="col-md-8 col-sm-12">
+				  	<div>
+                                        <p><h1><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1></p>
+                                       <h2><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
+<!--<div class="region region-content">
+<div id="block-system-main" class="block block-system">
+<div class="content">
+<div class="content node-page">
+<div class="field field-name-body field-type-text-with-summary field-label-hidden">
+<p>&nbsp;&nbsp;</p>
+<div class="field-items">
+<div class="field-item even">-->
 
-			<div class="row course_boxes">
+<p id="main_text" align="justify" style="color: #535b60;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered the most toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
+
+<p id="main_text" align="justify" style="color: #535b60;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
+
+<p id="main_text" align="justify" style="color: #535b60;">Being the pioneer batch of the institute, the students have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
+
+<p id="main_text" align="justify" style="color: #535b60;">The students have to complete 10-week mandatory internship program. Overwhelming response was received from the organizations where the students underwent internship this year and the students have been certified as highly productive and industry ready.</p>
+
+<p id="main_text" align="justify" style="color: #535b60;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
+
+<h2 class="page-title"><i class="fas fa-angle-right"></i>&nbsp;Selection Process</h2>
+<!--<p> &nbsp;&nbsp;<br />-->
+
+<p id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
+								</div>
+                            </div>
+                                 <div class="col-md-4 col-sm-12">
+                                 	<div class="col-md-12">
+                                 		<!-- News -->
+                            			<div style="max-height:300px;overflow-y:scroll;padding-right:16px;padding-bottom:30px;">
+                            				<h2 style="padding-bottom:10px;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
+                            			</div>
+                            			<!-- Quick Links -->
+                            			<div class="row">
+                            			<div class="col-sm-6 col-md-12">
+                            				<br>
+                                			<h2><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
+                            			</div>
+                            			<!-- Reach Us -->
+                                		<div class="col-sm-6 col-md-12">
+                                		<br>
+                                    	<h2><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
+                                    	</div>
+                            			</div>
+                                 	</div>
+                                 </div>
+                        </div>
+           
+                       
+
+                </div>
+         </div>
+
+			<!-- <div class="row course_boxes">
 				
-				<!-- Popular Course Item -->
+				
 				<div class="col-lg-4 course_box">
 					<div class="card">
 						<img class="card-img-top" src="images/course_1.jpg" alt="https://unsplash.com/@kellybrito">
@@ -214,7 +265,7 @@
 					</div>
 				</div>
 
-				<!-- Popular Course Item -->
+				
 				<div class="col-lg-4 course_box">
 					<div class="card">
 						<img class="card-img-top" src="images/course_2.jpg" alt="https://unsplash.com/@cikstefan">
@@ -232,7 +283,7 @@
 					</div>
 				</div>
 
-				<!-- Popular Course Item -->
+				
 				<div class="col-lg-4 course_box">
 					<div class="card">
 						<img class="card-img-top" src="images/course_3.jpg" alt="https://unsplash.com/@dsmacinnes">
@@ -249,20 +300,20 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 		</div>		
 	</div>
 
 	<!-- Register -->
 
-	<div class="register">
+	<!-- <div class="register">
 
 		<div class="container-fluid">
 			
 			<div class="row row-eq-height">
 				<div class="col-lg-6 nopadding">
 					
-					<!-- Register -->
+					
 
 					<div class="register_section d-flex flex-column align-items-center justify-content-center">
 						<div class="register_content text-center">
@@ -276,7 +327,7 @@
 
 				<div class="col-lg-6 nopadding">
 					
-					<!-- Search -->
+					
 
 					<div class="search_section d-flex flex-column align-items-center justify-content-center">
 						<div class="search_background" style="background-image:url(images/search_background.jpg);"></div>
@@ -294,11 +345,11 @@
 				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Services -->
 
-	<div class="services page_section">
+	<!-- <div class="services page_section">
 		
 		<div class="container">
 			<div class="row">
@@ -361,12 +412,12 @@
 
 			</div>
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Testimonials -->
 
-	<div class="testimonials page_section">
-		<!-- <div class="testimonials_background" style="background-image:url(images/testimonials_background.jpg)"></div> -->
+	<!-- <div class="testimonials page_section">
+		
 		<div class="testimonials_background_container prlx_parent">
 			<div class="testimonials_background prlx" style="background-image:url(images/testimonials_background.jpg)"></div>
 		</div>
@@ -385,10 +436,10 @@
 					
 					<div class="testimonials_slider_container">
 
-						<!-- Testimonials Slider -->
+						
 						<div class="owl-carousel owl-theme testimonials_slider">
 							
-							<!-- Testimonials Item -->
+							
 							<div class="owl-item">
 								<div class="testimonials_item text-center">
 									<div class="quote">“</div>
@@ -403,7 +454,7 @@
 								</div>
 							</div>
 
-							<!-- Testimonials Item -->
+							
 							<div class="owl-item">
 								<div class="testimonials_item text-center">
 									<div class="quote">“</div>
@@ -418,7 +469,7 @@
 								</div>
 							</div>
 
-							<!-- Testimonials Item -->
+							
 							<div class="owl-item">
 								<div class="testimonials_item text-center">
 									<div class="quote">“</div>
@@ -440,11 +491,11 @@
 			</div>
 
 		</div>
-	</div>
+	</div> -->
 
 	<!-- Events -->
 
-	<div class="events page_section">
+	<!-- <div class="events page_section">
 		<div class="container">
 			
 			<div class="row">
@@ -457,7 +508,7 @@
 			
 			<div class="event_items">
 
-				<!-- Event Item -->
+				
 				<div class="row event_item">
 					<div class="col">
 						<div class="row d-flex flex-row align-items-end">
@@ -487,7 +538,7 @@
 					</div>
 				</div>
 
-				<!-- Event Item -->
+				
 				<div class="row event_item">
 					<div class="col">
 						<div class="row d-flex flex-row align-items-end">
@@ -517,7 +568,7 @@
 					</div>
 				</div>
 
-				<!-- Event Item -->
+				
 				<div class="row event_item">
 					<div class="col">
 						<div class="row d-flex flex-row align-items-end">
@@ -550,8 +601,29 @@
 			</div>
 				
 		</div>
-	</div>
+	</div> -->
+	<!-- Companies -->
+	<div class="col-md-12 col-sm-12" style="padding-top:30px; color: #535b60;">
+	        		<center><h1>Past Recruiters</h1>
+	        		<marquee>
+	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
+					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c9.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c3.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c4.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c6.jpg" style="height:65px;max-width:100px;" ></li>
+					</ul>
+					</marquee></center>
+					<br>
+				<div class="col-md-12" style="padding:12px;padding-left:0px;"><a href="companies.php" class="newslinks" target="_blank">See More &nbsp;<i class="fa fa-angle-double-right"></i></a></div>
+	        	</div>
 
+
+	        </div>
 	<!-- Footer -->
 
 	<footer class="footer">
@@ -594,8 +666,8 @@
 						<!-- Logo -->
 						<div class="logo_container">
 							<div class="logo">
-								<img src="images/logo.png" alt="">
-								<span>course</span>
+								<img src="images/iitlogo.png" alt="logo" height="50" width="50">
+								<span>IIT Ropar</span>
 							</div>
 						</div>
 
@@ -668,7 +740,7 @@
 			<div class="footer_bar d-flex flex-column flex-sm-row align-items-center">
 				<div class="footer_copyright">
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="footer_social ml-sm-auto">
