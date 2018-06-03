@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>IIT Ropar | CDCRC</title>
+<title>CDCRC | IIT Ropar</title>
 <link rel="shortcut icon" href="images/iitlogo.png" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,17 +37,17 @@
 					<ul class="main_nav_list">
 						<li class="main_nav_item"><a href="#">home</a></li>
 						<li class="main_nav_item"><a href="#">about us</a></li>
-						<li class="main_nav_item"><a href="courses.html">courses</a></li>
-						<li class="main_nav_item"><a href="elements.html">elements</a></li>
-						<li class="main_nav_item"><a href="news.html">news</a></li>
-						<li class="main_nav_item"><a href="contact.html">contact</a></li>
+						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
+						<li class="main_nav_item"><a href="#">For students</a></li>
+						
+						<li class="main_nav_item"><a href="#">contact</a></li>
 					</ul>
 				</div>
 			</nav>
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
 			<img src="images/phone-call.svg" alt="">
-			<span>+43 4566 7788 2457</span>
+			<span>+91 78142 52244</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -71,10 +71,9 @@
 				<ul class="menu_list menu_mm">
 					<li class="menu_item menu_mm"><a href="#">Home</a></li>
 					<li class="menu_item menu_mm"><a href="#">About us</a></li>
-					<li class="menu_item menu_mm"><a href="courses.html">Courses</a></li>
-					<li class="menu_item menu_mm"><a href="elements.html">Elements</a></li>
-					<li class="menu_item menu_mm"><a href="news.html">News</a></li>
-					<li class="menu_item menu_mm"><a href="contact.html">Contact</a></li>
+					<li class="menu_item menu_mm"><a href="#">For Recruiters</a></li>
+					<li class="menu_item menu_mm"><a href="#">For Students</a></li>
+					<li class="menu_item menu_mm"><a href="#">Contact</a></li>
 				</ul>
 
 				<!-- Menu Social -->
@@ -152,7 +151,7 @@
 							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
 								<h2 class="hero_box_title">Carrier Development</h2>
-								<a href="courses.html" class="hero_box_link">view more</a>
+								<a href="#" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -162,7 +161,7 @@
 							<!-- <img src="images/books.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
 								<h2 class="hero_box_title">Training & Placement</h2>
-								<a href="courses.html" class="hero_box_link">view more</a>
+								<a href="#" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -172,7 +171,7 @@
 							<!-- <img src="images/professor.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
 								<h2 class="hero_box_title">Corporate Relations							</h2>
-								<a href="teachers.html" class="hero_box_link">view more</a>
+								<a href="#" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -683,9 +682,9 @@
 							<ul>
 								<li class="footer_list_item"><a href="#">Home</a></li>
 								<li class="footer_list_item"><a href="#">About Us</a></li>
-								<li class="footer_list_item"><a href="courses.html">Courses</a></li>
-								<li class="footer_list_item"><a href="news.html">News</a></li>
-								<li class="footer_list_item"><a href="contact.html">Contact</a></li>
+								<li class="footer_list_item"><a href="#">Courses</a></li>
+								<li class="footer_list_item"><a href="#">News</a></li>
+								<li class="footer_list_item"><a href="#">Contact</a></li>
 							</ul>
 						</div>
 					</div>
