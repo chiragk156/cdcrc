@@ -150,8 +150,8 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Carrier Development</h2>
-								<a href="#" class="hero_box_link">view more</a>
+								<h2 class="hero_box_title">Career Development</h2>
+								<a href="career.php" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -161,7 +161,7 @@
 							<!-- <img src="images/books.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
 								<h2 class="hero_box_title">Training & Placement</h2>
-								<a href="#" class="hero_box_link">view more</a>
+								<a href="tnp.php" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -171,7 +171,7 @@
 							<!-- <img src="images/professor.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
 								<h2 class="hero_box_title">Corporate Relations							</h2>
-								<a href="#" class="hero_box_link">view more</a>
+								<a href="corporate.php" class="hero_box_link">view more</a>
 							</div>
 						</div>
 					</div>
@@ -682,8 +682,8 @@
 							<ul>
 								<li class="footer_list_item"><a href="#">Home</a></li>
 								<li class="footer_list_item"><a href="#">About Us</a></li>
-								<li class="footer_list_item"><a href="#">Courses</a></li>
-								<li class="footer_list_item"><a href="#">News</a></li>
+								<li class="footer_list_item"><a href="#">For Students</a></li>
+								<li class="footer_list_item"><a href="#">For Recruiters</a></li>
 								<li class="footer_list_item"><a href="#">Contact</a></li>
 							</ul>
 						</div>
@@ -692,7 +692,7 @@
 					<!-- Footer Column - Usefull Links -->
 
 					<div class="col-lg-3 footer_col">
-						<div class="footer_column_title">Usefull Links</div>
+						<div class="footer_column_title">Useful Links</div>
 						<div class="footer_column_content">
 							<ul>
 								<li class="footer_list_item"><a href="#">Testimonials</a></li>
@@ -714,18 +714,18 @@
 									<div class="footer_contact_icon">
 										<img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									</div>
-									Blvd Libertad, 34 m05200 Arévalo
+									Rupnagar, Punjab
 								</li>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
 										<img src="images/smartphone.svg" alt="https://www.flaticon.com/authors/lucy-g">
 									</div>
-									0034 37483 2445 322
+									+91-1234567890
 								</li>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
 										<img src="images/envelope.svg" alt="https://www.flaticon.com/authors/lucy-g">
-									</div>hello@company.com
+									</div>hello@iitrpr.ac.in
 								</li>
 							</ul>
 						</div>

@@ -301,6 +301,7 @@ section
 {
 	width: calc(100% - 279px);
 	height: 100%;
+	background: #21618C;
 }
 .header_content::before
 {
@@ -329,7 +330,7 @@ section
 	font-family: 'Open Sans', sans-serif;
 	font-size: 30px;
 	font-weight: 900;
-	color: #3a3a3a;
+	color: #FFFFFF;
 	vertical-align: middle;
 	text-transform: uppercase;
 	margin-left: 3px;
@@ -364,7 +365,7 @@ section
 	font-size: 14px;
 	text-transform: uppercase;
 	font-weight: 700;
-	color: #3a3a3a;
+	color: #FFFFFF;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -373,7 +374,8 @@ section
 }
 .main_nav_item a:hover
 {
-	color: #ffb606;
+	color: #21618C;
+	background: #FFFFFF;
 }
 
 /*********************************
@@ -384,7 +386,7 @@ section
 {
 	width: 279px;
 	height: 100%;
-	background: #ffb606;
+	background: #21618C;
 }
 .header_side img
 {
@@ -426,7 +428,7 @@ section
 }
 .hamburger_container:hover i
 {
-	color: #ffb606;
+	color: #21618C;
 }
 
 /*********************************
@@ -504,7 +506,7 @@ section
 }
 .menu_item a:hover
 {
-	color: #ffb606;
+	color: #21618C;
 }
 .menu_close_container
 {
@@ -551,7 +553,7 @@ section
 .menu_close_container:hover .menu_close,
 .menu_close_container:hover .menu_close::after
 {
-	background: #ffb606;
+	background: #21618C;
 }
 
 /*********************************
@@ -585,7 +587,7 @@ section
 }
 .menu_social_item a i:hover
 {
-	color: #ffb606;
+	color: #21618C;
 }
 .menu_container.active .menu_social_container
 {
@@ -626,7 +628,6 @@ section
 	transform: translateY(0px);
 	opacity: 1;
 }
-
 /*********************************
 5. Home
 *********************************/
@@ -662,7 +663,7 @@ section
 	-ms-transform: translateX(-50%);
 	-o-transform: translateX(-50%);
 	transform: translateX(-50%);
-	background: #ffb606;
+	background: #21618C;
 	padding-top: 24px;
 	padding-bottom: 18px;
 	padding-left: 39px;
@@ -670,7 +671,7 @@ section
 }
 .home_content h1
 {
-	font-size: 72px;
+	font-size: 55px;
 	font-weight: 400;
 	color: #FFFFFF;
 	line-height: 0.5;
@@ -716,7 +717,7 @@ section
 	width: 55px;
 	height: 4px;
 	content: '';
-	background: #ffb606;
+	background: #21618C;
 }
 
 /*********************************
@@ -835,7 +836,7 @@ section
 {
 	width: 67px;
 	height: 67px;
-	background: #ffb606;
+	background: #21618C;
 	margin-left: auto;
 }
 .course_price span
@@ -886,14 +887,14 @@ section
 }
 .newsletter_email:focus
 {
-	outline: solid 2px #ffb606;
+	outline: solid 2px #21618C;
 }
 .newsletter_submit_btn
 {
 	width: 164px;
 	height: 42px;
 	border: none;
-	background: #ffb606;
+	background: #21618C;
 	color: #FFFFFF;
 	font-size: 14px;
 	font-weight: 500;
@@ -955,7 +956,7 @@ section
 }
 .footer_list_item a:hover
 {
-	color: #ffb606;
+	color: #21618C;
 }
 .footer_contact_item
 {
@@ -996,7 +997,7 @@ section
 }
 .footer_social .menu_social_item a i:hover
 {
-	color: #ffb606;
+	color: #21618C;
 }
 .footer_social .menu_social_item:last-child
 {
