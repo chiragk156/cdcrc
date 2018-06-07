@@ -35,7 +35,19 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list"
-					        <li class="main_nav_item"><a href="#">home/a></li>				
+					         <li class="main_nav_item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
+                                                    
+                                                            
+                                                        <div class="dropdown-menu">
+                                                             <a class="dropdown-item" href="#">Link 1</a>
+                                                             <a class="dropdown-item" href="#">Link 2</a>
+                                                             <a class="dropdown-item" href="#">Link 3</a>
+							     <a class="dropdown-item" href="#">Link 4</a>
+							     <a class="dropdown-item" href="#">Link 5</a>
+                                                       </div>
+                    
+                                                </li>				
 						<li class="main_nav_item"><a href="#">about us</a></li>
 						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
 						<li class="main_nav_item"><a href="#">For students</a></li>
@@ -69,7 +81,19 @@
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="#">Home</a></li>
+					<li class="menu_item menu_mm  dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
+                                                    
+                                                            
+                                                        <div class="dropdown-menu">
+                                                             <a class="dropdown-item" href="#">Link 1</a>
+                                                             <a class="dropdown-item" href="#">Link 2</a>
+                                                             <a class="dropdown-item" href="#">Link 3</a>
+							     <a class="dropdown-item" href="#">Link 4</a>
+							     <a class="dropdown-item" href="#">Link 5</a>
+                                                       </div>
+                    
+                                                </li>
 					<li class="menu_item menu_mm"><a href="#">About us</a></li>
 					<li class="menu_item menu_mm"><a href="#">For Recruiters</a></li>
 					<li class="menu_item menu_mm"><a href="#">For Students</a></li>
