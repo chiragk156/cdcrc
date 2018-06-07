@@ -35,7 +35,20 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="http://www.iitrpr.ac.in/TP/index.php/placement-stats/">home</a></li>
+					
+                                               <li class="nav-item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+                                                            Home
+                                                    </a>
+                                                        <div class="dropdown-menu">
+                                                             <a class="dropdown-item" href="#">Link 1</a>
+                                                             <a class="dropdown-item" href="#">Link 2</a>
+                                                             <a class="dropdown-item" href="#">Link 3</a>
+							     <a class="dropdown-item" href="#">Link 4</a>
+							     <a class="dropdown-item" href="#">Link 5</a>
+                                                       </div>
+                                              </li>
+										
 						<li class="main_nav_item"><a href="#">about us</a></li>
 						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
 						<li class="main_nav_item"><a href="#">For students</a></li>
