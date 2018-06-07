@@ -32,9 +32,24 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">home</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">T&P Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-fic/">From The T&P Head</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="#">Students</a></li>
-						<li class="main_nav_item"><a href="#">Academics</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/academic">Academics</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
+                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
 						<li class="main_nav_item"><a href="#">Summary</a></li>
 						<li class="main_nav_item"><a href="#">contact</a></li>

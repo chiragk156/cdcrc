@@ -35,10 +35,26 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="#">home</a></li>
-						<li class="main_nav_item"><a href="#">about us</a></li>
-						<li class="main_nav_item"><a href="#">For Companies</a></li>
-						<li class="main_nav_item"><a href="#">For students</a></li>
+						<li class="main_nav_item dropdown">
+							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">From The Director's Desk</a>
+                            </div>
+                        </li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Companies</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">Training & Placement</a>
+                                <a class="dropdown-item" href="corporate.php">Corporate Relations</a>
+                            </div>
+						</li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Students</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="career.php">Career Development</a>
+                                <a class="dropdown-item" href="tnp.php">Training & Placement</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="#">contact</a></li>
 					</ul>
 				</div>
