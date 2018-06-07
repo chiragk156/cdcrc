@@ -34,8 +34,8 @@
 			<!-- Main Navigation -->
 			<nav class="main_nav_container">
 				<div class="main_nav">
-					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="#">home</a></li>
+					<ul class="main_nav_list"
+					        <li class="main_nav_item"><a href="#">home/a></li>				
 						<li class="main_nav_item"><a href="#">about us</a></li>
 						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
 						<li class="main_nav_item"><a href="#">For students</a></li>
