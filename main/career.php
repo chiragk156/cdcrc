@@ -32,12 +32,33 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">home</a></li>
-						<li class="main_nav_item"><a href="#">about us</a></li>
-						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">For students</a></li>
-						
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="career.php">Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="#">Lecture Series</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">opportunities</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">Job/Placement</a>
+                                <a class="dropdown-item" href="#">UPSC</a>
+                                <a class="dropdown-item" href="#">GATE</a>
+                                <a class="dropdown-item" href="#">GRE/GMAT/CAT</a>
+                            </div>
+						</li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Clubs</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="#">Coding Club</a>
+                                <a class="dropdown-item" href="#">Robotics Club</a>
+                                <a class="dropdown-item" href="#">Dramatics</a>
+                                <a class="dropdown-item" href="#">blah blah...</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="#">Gymkhana</a></li>
 					</ul>
 				</div>
 			</nav>

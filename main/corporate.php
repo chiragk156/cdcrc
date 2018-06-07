@@ -32,12 +32,23 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">home</a></li>
-						<li class="main_nav_item"><a href="#">about us</a></li>
-						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">For students</a></li>
-						
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="#">Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="#">Industrial</a></li>
+						<li class="main_nav_item"><a href="#">Central Lab Facility</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Departmental</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="#">Lab Facility</a>
+                                <a class="dropdown-item" href="#">Faculty</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="#">Research</a></li>
 					</ul>
 				</div>
 			</nav>
