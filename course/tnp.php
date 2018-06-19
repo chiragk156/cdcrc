@@ -32,12 +32,25 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">home</a></li>
-						<li class="main_nav_item"><a href="#">about us</a></li>
-						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">For students</a></li>
+						<li class="main_nav_item"><a href="index.php">  home</a></li>
+						<li class="main_nav_item"><a href="prospective.php">prospective students</a></li>
+						<li class="main_nav_item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="http://www.iitrpr.ac.in/academic" id="navbardrop" data-toggle="dropdown">academics</a>
+                                                    
+                                                            
+                                                        <div class="dropdown-menu">
+                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
+                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
+                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
+							     
+                                                       </div>
+                    
+                                                </li>
+						<li class="main_nav_item"><a href="recruiters.php">For recruiters</a></li>
 						
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						 <li class="main_nav_item"><a href="contacts.php">contacts</a></li>
+                                                <li class="main_nav_item"><a href="placementsummary.php">placement summary</a></li>
+                                                
 					</ul>
 				</div>
 			</nav>
@@ -67,10 +80,10 @@
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
 					<li class="menu_item menu_mm"><a href="index.php">Home</a></li>
-					<li class="menu_item menu_mm"><a href="#">About us</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Recruiters</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Students</a></li>
-					<li class="menu_item menu_mm"><a href="#">Contact</a></li>
+					<li class="menu_item menu_mm"><a href="prospective.php">prospective students</a></li>
+					<li class="menu_item menu_mm"><a href="#">academics</a></li>
+					<li class="menu_item menu_mm"><a href="recruiters.php">For recruiters</a></li>
+					<li class="menu_item menu_mm"><a href="#">contact</a></li>
 				</ul>
 
 				<!-- Menu Social -->
@@ -103,15 +116,26 @@
 
 	</div>
 <marquee style="color: #FFFFFF; background: #21618C;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3><a href="#" style="color: #FFFFFF">Events</a></h3></marquee>
+
 	<!-- Popular -->
 
+    <!--<div class="col-md-4 col-sm-12">
+             <div class="row">
+              gjhjh
+             </div>
+ 
+            <div class="row">
+                <img src="images/teacher_1.jpg" style="height:100px;max-width:600px;" />
+           </div>
+     </div>-->
+ 
 	<div class="popular page_section">
 		<div class="container">
 			<div class="row" style="color: #535b60;">
 				  <div class="col-md-8 col-sm-12">
 				  	<div>
-                                        <p><h1><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1></p>
-                                       <h2><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
+                                        <h1 style="color:black;"><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1>
+                                       <h2 style="color:black;"><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
 <!--<div class="region region-content">
 <div id="block-system-main" class="block block-system">
 <div class="content">
@@ -121,38 +145,38 @@
 <div class="field-items">
 <div class="field-item even">-->
 
-<p id="main_text" align="justify" style="color: #535b60;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered the most toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered the most toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">Being the pioneer batch of the institute, the students have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">Being the pioneer batch of the institute, the students have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">The students have to complete 10-week mandatory internship program. Overwhelming response was received from the organizations where the students underwent internship this year and the students have been certified as highly productive and industry ready.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">The students have to complete 10-week mandatory internship program. Overwhelming response was received from the organizations where the students underwent internship this year and the students have been certified as highly productive and industry ready.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
 
-<h2 class="page-title"><i class="fas fa-angle-right"></i>&nbsp;Selection Process</h2>
+<h2 style="color:black;" class="page-title"><i class="fas fa-angle-right"></i>&nbsp;Selection Process</h2>
 <!--<p> &nbsp;&nbsp;<br />-->
 
-<p id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
+<h3 style="color:black;" id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
 								</div>
                             </div>
                                  <div class="col-md-4 col-sm-12">
                                  	<div class="col-md-12">
                                  		<!-- News -->
                             			<div style="max-height:300px;overflow-y:scroll;padding-right:16px;padding-bottom:30px;">
-                            				<h2 style="padding-bottom:10px;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
+                            				<h2 style="color:black;" style="padding-bottom:10px;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
                             			</div>
                             			<!-- Quick Links -->
                             			<div class="row">
                             			<div class="col-sm-6 col-md-12">
                             				<br>
-                                			<h2><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
+                                			<h2 style="color:black;"><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
                             			</div>
                             			<!-- Reach Us -->
                                 		<div class="col-sm-6 col-md-12">
                                 		<br>
-                                    	<h2><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
+                                    	<h2 style="color:black;"><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
                                     	</div>
                             			</div>
                                  	</div>
@@ -523,7 +547,7 @@
 	</div> -->
 	<!-- Companies -->
 	<div class="col-md-12 col-sm-12" style="padding-top:30px; color: #535b60;">
-	        		<center><h1>Past Recruiters</h1>
+	        		<center><h1 style="color:black;">Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
 					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
@@ -617,9 +641,10 @@
 							<ul>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
-										<img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
+									    <a href="https://goo.gl/maps/QyCu9pe4NYr"><img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g"></a>
 									</div>
-									Rupnagar, Punjab
+									<!--Rupnagar, Punjab-->
+                                                                        <a href="https://goo.gl/maps/QyCu9pe4NYr" style="color:#a5a5a5;;"> How to Reach IIT Ropar</a>
 								</li>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">

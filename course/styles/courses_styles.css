@@ -323,7 +323,7 @@ section
 .logo_container
 {
 	display: inline-block;
-	padding-left: 76px;
+	padding-left: 20px;
 }
 .logo span
 {
@@ -344,7 +344,8 @@ section
 {
 	display: inline-block;
 	margin-left: auto;
-	padding-right: 93px;
+	padding-right: auto;
+        
 }
 .main_nav
 {
@@ -353,7 +354,7 @@ section
 .main_nav_item
 {
 	display: inline-block;
-	margin-right: 40px;
+	margin-right: 18px;
 }
 .main_nav_item:last-child
 {

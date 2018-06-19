@@ -34,8 +34,8 @@
 			<!-- Main Navigation -->
 			<nav class="main_nav_container">
 				<div class="main_nav">
-					<ul class="main_nav_list"
-					         <li class="main_nav_item dropdown">
+					<ul class="main_nav_list">
+						  <li class="main_nav_item dropdown">
                                                     <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
                                                     
                                                             
@@ -47,12 +47,12 @@
 							     <a class="dropdown-item" href="#">Link 5</a>
                                                        </div>
                     
-                                                </li>				
+                                                </li>
 						<li class="main_nav_item"><a href="#">about us</a></li>
 						<li class="main_nav_item"><a href="#">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">For students</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">for student</a></li>
 						
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item"><a href="reachiitropar.php">contact</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -240,7 +240,7 @@
 
 <p id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
 								</div>
-                            </div>
+                            </div> 
                                  <div class="col-md-4 col-sm-12">
                                  	<div class="col-md-12">
                                  		<!-- News -->
@@ -626,7 +626,7 @@
 		</div>
 	</div> -->
 	<!-- Companies -->
-	<div class="col-md-12 col-sm-12" style="padding-top:30px; color: #535b60;">
+	<!--<div class="col-md-12 col-sm-12" style="padding-top:30px; color: #535b60;">
 	        		<center><h1>Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
@@ -646,7 +646,7 @@
 	        	</div>
 
 
-	        </div>
+	        </div>-->
 	<!-- Footer -->
 
 	<footer class="footer">
@@ -736,9 +736,10 @@
 							<ul>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
-										<img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
+									    <a href="https://goo.gl/maps/QyCu9pe4NYr"><img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g"></a>
 									</div>
-									Rupnagar, Punjab
+									<!--Rupnagar, Punjab-->
+                                                                        <a href="https://goo.gl/maps/QyCu9pe4NYr" style="color:#a5a5a5;;"> How to Reach IIT Ropar</a>
 								</li>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
