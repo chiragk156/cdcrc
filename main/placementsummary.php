@@ -33,25 +33,27 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">  home</a></li>
-						<li class="main_nav_item"><a href="prospective.php">prospective students</a></li>
 						<li class="main_nav_item dropdown">
-                                                    <a class="nav-link dropdown-toggle" href="http://www.iitrpr.ac.in/academic" id="navbardrop" data-toggle="dropdown">academics</a>
-                                                    
-                                                            
-                                                        <div class="dropdown-menu">
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
-							    
-                                                       </div>
-                    
-                                                </li>
-						<li class="main_nav_item"><a href="recruiters.php">For recruiters</a></li>
-						
-						 <li class="main_nav_item"><a href="contacts.php">contacts</a></li>
-                                                <li class="main_nav_item"><a href="placementsummary.php">placement summary</a></li>
-                                                
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">T&P Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-fic/">From The T&P Head</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="students.php">Students</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/academic">Academics</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
+                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
+						<li class="main_nav_item"><a href="#">contact</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -79,23 +81,28 @@
 		<!-- Menu Items -->
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
-				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="index.php">Home</a></li>
-					<li class="menu_item menu_mm"><a href="prospective.php">prospective students</a></li>
-					<li class="menu_item menu_mm"><a href="#">academics</a></li>
-					<li class="menu_item menu_mm"><a href="#">For recruiters</a></li>
-					<li class="menu_item menu_mm"><a href="#">contact</a></li>
-				</ul>
-
-				<!-- Menu Social -->
-				
-				<div class="menu_social_container menu_mm">
-					<ul class="menu_social menu_mm">
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-instagram"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
+				<ul class="main_nav_list">
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">T&P Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-fic/">From The T&P Head</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="students.php">Students</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/academic">Academics</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
+                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
+						<li class="main_nav_item"><a href="#">contact</a></li>
 					</ul>
 				</div>
 

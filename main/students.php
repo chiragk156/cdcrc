@@ -32,25 +32,27 @@
 			<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
-						<li class="main_nav_item"><a href="index.php">  home</a></li>
-						<li class="main_nav_item"><a href="prospective.php">prospective students</a></li>
 						<li class="main_nav_item dropdown">
-                                                    <a class="nav-link dropdown-toggle" href="http://www.iitrpr.ac.in/academic" id="navbardrop" data-toggle="dropdown">academics</a>
-                                                    
-                                                            
-                                                        <div class="dropdown-menu">
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
-                                                             <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
-							     
-                                                       </div>
-                    
-                                                </li>
-						<li class="main_nav_item"><a href="recruiters.php">For recruiters</a></li>
-						
-						 <li class="main_nav_item"><a href="contacts.php">contacts</a></li>
-                                                <li class="main_nav_item"><a href="placementsummary.php">placement summary</a></li>
-                                               
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">home</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">T&P Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-fic/">From The T&P Head</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="students.php">Students</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/academic">Academics</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
+                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
+						<li class="main_nav_item"><a href="contacts.php">contact</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -123,8 +125,7 @@
 			<div class="row" style="color: #535b60;">
 				  <div class="col-md-8 col-sm-12">
 				        <!--<p style="margin-top:10px;">Home>>Prospective Students</p>-->
-                                        <p><h1 style="color:black;"><i class="fas fa-angle-right"></i> &nbsp;Student Profiles</h1></p>
-                                        <p> </p>
+                                        <p><h1><i class="fas fa-angle-right"></i> &nbsp;Student Profiles</h1></p>
                                         
                                         <img src="images/1.png"/>
                                         
@@ -136,7 +137,7 @@
 
 
 <div class="col-md-12 col-sm-12" style="padding-top:30px; color: #535b60;">
-	        		<center><h1 style="color:black;">Past Recruiters</h1>
+	        		<center><h1>Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
 					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>

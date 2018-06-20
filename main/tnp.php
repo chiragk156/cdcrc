@@ -40,7 +40,7 @@
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-fic/">From The T&P Head</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="#">Students</a></li>
+						<li class="main_nav_item"><a href="students.php">Students</a></li>
 						<li class="main_nav_item dropdown">
 							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
@@ -51,7 +51,7 @@
                             </div>
 						</li>
 						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">Summary</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
 						<li class="main_nav_item"><a href="#">contact</a></li>
 					</ul>
 				</div>
