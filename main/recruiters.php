@@ -55,8 +55,8 @@ body
                             </div>
 						</li>
 						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="#">Summary</a></li>
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
+						<li class="main_nav_item"><a href="contacts.php">contact</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -128,27 +128,64 @@ body
 		<div class="container">
 			<div class="row" style="color:#535b60;">
 				  <div class="col-md-10 col-sm-12">
-                                       <h1 style="color:#21618C;font-style:italic"> PLACEMENT PROCEDURE :</h1>
-                         <div class="rr" style="color:red;background-color:;">
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 1</strong>.   The Training &amp; Placement Cell (nodal point for placements at IIT Ropar), sends invitations to companies along with relevant information like Placement Brochure, Job Announcement Form (JAF), etc.</h3>
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 2</strong>. Company can register by sending the filled JAF attached with an e-mail to placement @iitrpr.ac.in or fill the online JAF available on T&P webpage. Download JAF:https//goo.gl/dzzjzE Fill JAF online: https://goo.gl/NUJPeM </h3>
-<!--<h3 style="color:black;"><strong>Step 3</strong>. After receiving filled in Job Announcement Form (JAF) and relevant information from a company T&amp;P Cell will reply within 2-3 working days through email. The dates for campus interviews are allotted on the basis of information provided in JAF.</p>
---><h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 3</strong>. A suitable date for the Placement Process is decided by the discussions between the companies and the T&amp;P Cell. After confirmation from the companies, students are notified of the date.</p>
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;">Step 4. Interested students register for a particular company online through an internal website.</p>
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 5</strong>. Data of the registered students along with their CV are made available to the companies for short listing.</p>
-<!--<h3 style="color:black;"><strong>Step 7</strong>. Companies are required to send the list of shortlisted students by email to the T&amp;P Cell, prior to the campus visit for final interviews.</p>
---><h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 6</strong>. The companies visit the campus for placements on the allotted dates and conduct Pre-placement talks/ Group Discussions/ Aptitude Test/ Technical Test/ Personal Interviews etc., as part of their preferred selection procedure.</p>
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C;"><strong>Step 7. </strong>The companies may also, if interested, conduct selections for summer internships of the pre-final year students during the placement drive. The companies are requested to send us the filled in Internship Notification Form (INF) for it on placement@iitrpr.ac.in</p>
+                                       <h1 style="color:#21618C;font-style:italic;"> PLACEMENT PROCEDURE :</h1>
+                         <div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 1</strong>.   The Training &amp; Placement Cell (nodal point for placements at IIT Ropar), sends invitations to companies along with relevant information like Placement Brochure, Job Announcement Form (JAF), etc.</h3></div>
+						</div>
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 2</strong>. Company can register by sending the filled JAF attached with an e-mail to placement @iitrpr.ac.in or fill the online JAF available on T&P webpage. Download JAF:https//goo.gl/dzzjzE Fill JAF online: https://goo.gl/NUJPeM </h3></div></div>
+						<!--<h3 style="color:black;"><strong>Step 3</strong>. After receiving filled in Job Announcement Form (JAF) and relevant information from a company T&amp;P Cell will reply within 2-3 working days through email. The dates for campus interviews are allotted on the basis of information provided in JAF.</p>
+						-->
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 3</strong>. A suitable date for the Placement Process is decided by the discussions between the companies and the T&amp;P Cell. After confirmation from the companies, students are notified of the date.</h3></div></div>
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px; margin-top: 20px;">Step 4. Interested students register for a particular company online through an internal website.</h3></div></div>
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 20px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px; margin-top: 20px;"><strong>Step 5</strong>. Data of the registered students along with their CV are made available to the companies for short listing.</h3>
+						</div></div>
+						<!--<h3 style="color:black;"><strong>Step 7</strong>. Companies are required to send the list of shortlisted students by email to the T&amp;P Cell, prior to the campus visit for final interviews.</p>
+						-->
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 6</strong>. The companies visit the campus for placements on the allotted dates and conduct Pre-placement talks/ Group Discussions/ Aptitude Test/ Technical Test/ Personal Interviews etc., as part of their preferred selection procedure.</h3></div></div>
+						<div style="display: table; width: 100%;">
+                         <div style="display: table-cell;">
+                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         </div>
+                         <div style="display: table-cell;">
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 7. </strong>The companies may also, if interested, conduct selections for summer internships of the pre-final year students during the placement drive. The companies are requested to send us the filled in Internship Notification Form (INF) for it on placement@iitrpr.ac.in</h3></div></div>
 
- 
-<h2 style="color:#191970;font-style:italic;">IMPORTANT NOTE :</p>
- 
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970;">...The companies are expected to furnish the final list of selected students on the same day after the selection procedure is completed.
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970;">...The JAF provides the primary basis for communicating the details of the positions offered by the company to the candidates. It is, therefore, highly desirable that the form is completed in all respects.
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970;">...The decision regarding the dates is at the discretion of the T&amp;P cell. Companies are expected to strictly adhere to the time and dates slots allowed to them. Any change must be notified in advance.
+						<h2 style="color:#191970;font-style:italic; margin-top: 10px;">IMPORTANT NOTE :</p>
+						 
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970; border-radius: 10px;">...The companies are expected to furnish the final list of selected students on the same day after the selection procedure is completed.
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970; border-radius: 10px;">...The JAF provides the primary basis for communicating the details of the positions offered by the company to the candidates. It is, therefore, highly desirable that the form is completed in all respects.
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970; border-radius: 10px;">...The decision regarding the dates is at the discretion of the T&amp;P cell. Companies are expected to strictly adhere to the time and dates slots allowed to them. Any change must be notified in advance.
 
-<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970;" style="text-align: justify;">...Please note that the facility of video conferencing is available on the campus and can be availed for the purpose of interviewing candidates in case the company is unable to visit the campus.</p>
-<h3 style=>&nbsp;</p>
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#191970; border-radius: 10px;" style="text-align: justify;">...Please note that the facility of video conferencing is available on the campus and can be availed for the purpose of interviewing candidates in case the company is unable to visit the campus.</p>
+						<h3 style=>&nbsp;</p>
 <h1 style="color:#21618C;font-style:italic;margin-top:70px;">INTERNSHIPS :</h1>
 <!--<div class="region region-content">
 <div id="block-system-main" class="block block-system">
@@ -280,7 +317,7 @@ body
 
 
 
-                                        </div>
+                                        
 
 	                          </div>
                         </div> 

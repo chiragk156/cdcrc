@@ -53,7 +53,7 @@
 						</li>
 						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
 						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item"><a href="contacts.php">contact</a></li>
 					</ul>
 				</div>
 			</nav>
