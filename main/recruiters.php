@@ -128,17 +128,17 @@ body
 		<div class="container">
 			<div class="row" style="color:#535b60;">
 				  <div class="col-md-10 col-sm-12">
-                                       <h1 style="color:#21618C;font-style:italic;"> PLACEMENT PROCEDURE :</h1>
+                                       <h1 style="color:#21618C;font-style:italic; margin-left: 70px;"> PLACEMENT PROCEDURE :</h1>
                          <div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         	<img src="images/message.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 1</strong>.   The Training &amp; Placement Cell (nodal point for placements at IIT Ropar), sends invitations to companies along with relevant information like Placement Brochure, Job Announcement Form (JAF), etc.</h3></div>
 						</div>
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         	<img src="images/email.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 2</strong>. Company can register by sending the filled JAF attached with an e-mail to placement @iitrpr.ac.in or fill the online JAF available on T&P webpage. Download JAF:https//goo.gl/dzzjzE Fill JAF online: https://goo.gl/NUJPeM </h3></div></div>
@@ -146,19 +146,19 @@ body
 						-->
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         	<img src="images/date.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 3</strong>. A suitable date for the Placement Process is decided by the discussions between the companies and the T&amp;P Cell. After confirmation from the companies, students are notified of the date.</h3></div></div>
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px;">
+                         	<img src="images/reg.png" style="width: 60px; height: auto; margin-right: 10px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px; margin-top: 20px;">Step 4. Interested students register for a particular company online through an internal website.</h3></div></div>
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 20px;">
+                         	<img src="images/folder.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 20px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px; margin-top: 20px;"><strong>Step 5</strong>. Data of the registered students along with their CV are made available to the companies for short listing.</h3>
@@ -167,13 +167,13 @@ body
 						-->
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         	<img src="images/visitor.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 6</strong>. The companies visit the campus for placements on the allotted dates and conduct Pre-placement talks/ Group Discussions/ Aptitude Test/ Technical Test/ Personal Interviews etc., as part of their preferred selection procedure.</h3></div></div>
 						<div style="display: table; width: 100%;">
                          <div style="display: table-cell;">
-                         	<img src="images/temp.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
+                         	<img src="images/test.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
 						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 7. </strong>The companies may also, if interested, conduct selections for summer internships of the pre-final year students during the placement drive. The companies are requested to send us the filled in Internship Notification Form (INF) for it on placement@iitrpr.ac.in</h3></div></div>
