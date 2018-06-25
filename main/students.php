@@ -127,9 +127,12 @@
 				        <!--<p style="margin-top:10px;">Home>>Prospective Students</p>-->
                                         <p><h1><i class="fas fa-angle-right"></i> &nbsp;Student Profiles</h1></p>
                                         
-                                        <img src="images/1.png"/>
+                                        <img src="images/btech.png" style="max-width: 800px;" />
                                         
-                                        <img src="images/2.png"/>
+                                        <img src="images/mtech.png" style="max-width: 800px;" />
+                                        <img src="images/msc.png" style="max-width: 800px;" />
+                                        
+                                        <img src="images/ms.png" style="max-width: 800px;" />
                                   </div>
                        </div>
                 </div>

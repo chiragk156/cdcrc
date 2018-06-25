@@ -55,7 +55,7 @@
                                 <a class="dropdown-item" href="tnp.php">Training & Placement</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="#">contact</a></li>
+						<li class="main_nav_item"><a href="contacts.php" class="nav-link">contact</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -123,7 +123,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Education</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
 						</div>
 					</div>
 				</div>
@@ -133,7 +133,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Education</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
 						</div>
 					</div>
 				</div>
@@ -143,7 +143,7 @@
 					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Education</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
 						</div>
 					</div>
 				</div>
@@ -165,8 +165,9 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
+								<a href="career.php">
 								<h2 class="hero_box_title">Career Development</h2>
-								<a href="career.php" class="hero_box_link">view more</a>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -175,8 +176,9 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<!-- <img src="images/books.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
+								<a href="tnp.php">
 								<h2 class="hero_box_title">Training & Placement</h2>
-								<a href="tnp.php" class="hero_box_link">view more</a>
+								</a>
 							</div>
 						</div>
 					</div>
@@ -185,8 +187,9 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<!-- <img src="images/professor.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<h2 class="hero_box_title">Corporate Relations							</h2>
-								<a href="corporate.php" class="hero_box_link">view more</a>
+								<a href="corporate.php">
+								<h2 class="hero_box_title">Corporate Relations</h2>
+								</a>
 							</div>
 						</div>
 					</div>
