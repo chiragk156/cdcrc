@@ -39,7 +39,8 @@
                                 <a class="dropdown-item" href="index.php">CDCRC Home</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="#">Industrial</a></li>
+						<li class="main_nav_item"><a href="#">Industrial Consultancy</a></li>
+						<li class="main_nav_item"><a href="#">Sponsored Research</a></li>
 						<li class="main_nav_item"><a href="#">Central Lab Facility</a></li>
 						<li class="main_nav_item dropdown">
 							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Departmental</a>
@@ -48,7 +49,7 @@
                                 <a class="dropdown-item" href="#">Faculty</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="#">Research</a></li>
+						<li class="main_nav_item"><a href="#">Research Domains</a></li>
 					</ul>
 				</div>
 			</nav>
