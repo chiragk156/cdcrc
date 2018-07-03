@@ -48,13 +48,14 @@
 						</li>
 						<li class="main_nav_item"><a href="#">Sponsored Research</a></li>
 						<li class="main_nav_item"><a href="#">Central Lab Facility</a></li>
-						<li class="main_nav_item dropdown">
+						<li class="main_nav_item"><a class="nav-link" href="departments.php">Departments</a></li>
+						<!-- <li class="main_nav_item dropdown">
 							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Department</a>
 							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="labfacility.php">Lab Facility</a>
                                 <a class="dropdown-item" href="#">Faculty</a>
                             </div>
-						</li>
+						</li> -->
 						<li class="main_nav_item"><a href="#">Research Domains</a></li>
 					</ul>
 				</div>
