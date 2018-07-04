@@ -51,7 +51,7 @@
 						<li class="main_nav_item dropdown">
 							<a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Students</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
-                                <a class="dropdown-item" href="career.php">Career Development</a>
+                                <a class="dropdown-item" href="professional.php">Professional Development</a>
                                 <a class="dropdown-item" href="tnp.php">Training & Placement</a>
                             </div>
 						</li>
@@ -165,8 +165,8 @@
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
 							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
 							<div class="hero_box_content">
-								<a href="career.php">
-								<h2 class="hero_box_title">Career Development</h2>
+								<a href="professional.php">
+								<h2 class="hero_box_title" style="padding-right: 10px;">Professional Development</h2>
 								</a>
 							</div>
 						</div>
