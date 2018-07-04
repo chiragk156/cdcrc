@@ -55,15 +55,21 @@
                                 <a class="dropdown-item" href="gradresourses.php">For Graduate Students</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="gallery.php" class="nav-link">Gallery</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Initiatives</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="internship.php">CDCRC Innovation Internship</a>
+                                <a class="dropdown-item" href="rspr.php">Research Scholar Peer Learning</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="webpages.php" class="nav-link">Webpages</a></li>
 					</ul>
 				</div>
 			</nav>
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
-			<img src="images/phone-call.svg" alt="">
-			<span>+91 78142 52244</span>
+			<img src="images/envelope.svg">
+			<span>hod.pd@iitrpr.ac.in</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -114,7 +120,7 @@
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/professional.jpeg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Professional Development</h1>
@@ -126,16 +132,16 @@
 
 	<div class="popular page_section">
 		<div class="container">
-			<div class="row" style="color: #535b60;">
+			<div class="row" style="color: #000000;">
 				  <div class="col-md-8 col-sm-12">
 				  	<div>
                         <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development@IIT Ropar</h1>
-                        &nbsp;<h3>Professional Development@IIT Ropar caters to the following needs for the IIT Ropar student community</h3>
+                        &nbsp;<h2 style="padding-left: 1em;">Professional Development@IIT Ropar caters to the following needs for the IIT Ropar student community:</h2>
                         <ul style="list-style-type:disc;">
-                        	<li><h4>Facilitating discovery of potential, interests and aptitudes (self-discovery).</h4></li>
-                        	<li><h4>Organizing opportunities for students on developing effective communication skills (e.g. resumes, group discussions and interviews) and gearing them up for lifelong learning.</h4></li>
-                        	<li><h4>Organizing speaking opportunities and workshops by professionals (e.g. IIT alumni, faculty, Human Resource Professionals, Entrepreneurs, Industries, Research Organizations-Domestic and International) who are interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</h4></li>
-                        	<li><h4>Recommending and developing resources for professional development (e.g. library development, peer-learning initiatives, adult learning)  for the future scientific and technical workforce.</h4></li>
+                        	<h2 style="padding-left: 1em;"><li>Facilitating discovery of potential, interests and aptitudes (self-discovery).</li></h2>
+                        	<h2 style="padding-left: 1em;"><li>Organizing opportunities for students on developing effective communication skills (e.g. resumes, group discussions and interviews) and gearing them up for lifelong learning.</li></h2>
+                        	<h2 style="padding-left: 1em;"><li>Organizing speaking opportunities and workshops by professionals (e.g. IIT alumni, faculty, Human Resource Professionals, Entrepreneurs, Industries, Research Organizations-Domestic and International) who are interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</li></h2>
+                        	<h2 style="padding-left: 1em;"><li>Recommending and developing resources for professional development (e.g. library development, peer-learning initiatives, adult learning)  for the future scientific and technical workforce.</li></h2>
                         </ul>
                                        
 					</div>

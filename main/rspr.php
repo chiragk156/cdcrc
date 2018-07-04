@@ -39,7 +39,7 @@
                                 <a class="dropdown-item" href="index.php">CDCRC Home</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="lectseries.php" class="nav-link">CDCRC Lectures</a></li>
+						<li class="main_nav_item"><a href="lectseries.php" class="nav-link">Lecture Series</a></li>
 						<li class="main_nav_item dropdown">
 							<!-- <a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">opportunities</a>
 							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
@@ -55,15 +55,21 @@
                                 <a class="dropdown-item" href="gradresourses.php">For Graduate Students</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="gallery.php" class="nav-link">Gallery</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Initiatives</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="internship.php">CDCRC Innovation Internship</a>
+                                <a class="dropdown-item" href="rspr.php">Research Scholar Peer Learning</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="webpages.php" class="nav-link">Webpages</a></li>
 					</ul>
 				</div>
 			</nav>
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
-			<img src="images/phone-call.svg" alt="">
-			<span>+91 78142 52244</span>
+			<img src="images/envelope.svg">
+			<span>hod.pd@iitrpr.ac.in</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -114,7 +120,7 @@
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/lectureseries.jpeg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/rspr.jpeg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Professional Development</h1>
@@ -129,40 +135,13 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h1>CDCRC Lecture Series</h1>
+						<h1>IIT Ropar Research Scholar Peer Learning Initiative</h1>
 					</div>
 				</div>
 			</div>
 			<div class="row">
-				<ul style="color: #000000;">
-					&nbsp;<h2><li>The Career Development and Corporate Relations Centre in 2018 organized the following lectures:</li></h2>
-					<ol type="i" style="margin-left:3em;">
-						<h3><li>“Creating an effective first professional impression” - Prof. Deepti Gupta (Dean, International Students, Panjab University) and Ms. Tanvi Malhotra (Trainer-Communication Skills)</li></h3>
-						<h3><li>Strategies of Effective Business Communication - Ms. Vishwapriya Kochhar  (Co-Founder and Managing Director, M/S Blewminds)</li></h3>
-						<h3><li>“How to 'Present Your 'Best Self' at an interview” - Ms. Annesha Dutta (Founder- 'AskAnnie Consulting')</li></h3>
-						<h3><li> Soft Skill Training for students by an external agency</li></h3>
-					</ol>
-
-					&nbsp;<h2><li>Organization of workshops by professionals interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</li></h2>
-					<h3 style="margin-left: 2em;">To cater to this objective, IIT Ropar invited the following distinguished speakers on sharing their experience: </h3>
-					<ol type="i" style="margin-left: 4em;">
-						<h3><li>GREAT TALKS organized by British Council UK @ IIT Ropar - Dr. Venkat V S S Sastry (Cranfield University) and British Council, UK</li></h3>
-						<h3><li> "Startup in Financial Domain"- Mr. Tajinder Singh Virk (CEO and Co-Founder Finvasia)</li></h3>
-						<h3><li> “A Career in Computer Programming” - Mr. Anup Kalbalia (Lead, CodeChef)</li></h3>
-						<h3><li>“I have an Idea, what next?” - Dr. Sachin Jain (Director SKYi Composites Pvt. Ltd.)</li></h3>
-						<h3><li>“Engineering Your Career” - Dr. Dheepa Srinivasan (Consultant, Additive Technologies and High Temp. Materials and Coatings, Formerly, Principal Engineer, GE, Power)</li></h3>
-						<h3><li>“How graduate students can prepare themselves for international research opportunities” - Prof. Christopher Berndt (Swinburne University, Australia  and VAJRA Faculty-IIT Ropar)</li></h3>
-					</ol>
-
-					<!-- &nbsp;<h2><li>Development of resources for professional development (e.g. library development, peer-learning initiatives, adult learning) for enriching the future scientific and technical workforce in addition to classroom learning.</li></h2>
-					<ol type="i" style="margin-left: 3em;">
-						<h3><li>Under this initiative, ~65 books have been procured on professional development by the IIT Ropar Library and more titles will be procured.</li></h3>
-						<h3><li>The office is working with the Dean (Research) office to encourage research scholars to conceptualize and develop an IIT Ropar Peer Learning initiative, with the intention to develop a learning community where they will be organizing workshops.</li></h3>
-						<h3><li>A formal CDCRC Innovation Internship programme was initiated in June 2018 which has five IIT Ropar students in the current cohort. The idea is to engage student   talent to achieve institutional objectives like excellent industry relations, prolonged industry engagement through placement and internships and professional development.</li></h3>
-						<h3><li>In June 2018 the office organized the visit of three undergraduate students and six undergraduate student entrepreneurs for the CII IT-Non IT B2B Meetup at CII Office, Chandigarh.</li></h3>
-					</ol> -->
-
-				</ul>
+				&nbsp;<h2 style="color: #000000;">CDCRC is working with the Dean (Research) office to encourage research scholars to conceptualize and develop an IIT Ropar Peer Learning initiative, with the intention to develop a learning community where the students will be organizing workshops. For 2018 the following workshops have been organized</h2>
+				
 
 			</div>
 		</div>		

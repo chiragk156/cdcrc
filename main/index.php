@@ -5,7 +5,7 @@
 <link rel="shortcut icon" href="images/iitlogo.png" />
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="description" content="Course Project">
+<meta name="description" content="CDCRC Website">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
 <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
@@ -39,6 +39,8 @@
 							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">From The Director's Desk</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Role of CDCRC</a>
+                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Structure of CDCRC</a>
                             </div>
                         </li>
 						<li class="main_nav_item dropdown">
@@ -120,30 +122,39 @@
 				
 				<!-- Hero Slide -->
 				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
+					<div class="hero_slide_background" style="background-image:url(images/background/1.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Connecting <span>Talent</span> with <span>Opportunity</span></h1>
 						</div>
 					</div>
 				</div>
 				
 				<!-- Hero Slide -->
 				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
+					<div class="hero_slide_background" style="background-image:url(images/background/2.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Connecting <span>Talent</span> with <span>Opportunity</span></h1>
 						</div>
 					</div>
 				</div>
 				
 				<!-- Hero Slide -->
 				<div class="hero_slide">
-					<div class="hero_slide_background" style="background-image:url(images/slider_background.jpg)"></div>
+					<div class="hero_slide_background" style="background-image:url(images/background/3.png)"></div>
 					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
 						<div class="hero_slide_content text-center">
-							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Get your <span>Job</span> today!</h1>
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Connecting <span>Talent</span> with <span>Opportunity</span></h1>
+						</div>
+					</div>
+				</div>
+
+				<div class="hero_slide">
+					<div class="hero_slide_background" style="background-image:url(images/background/4.png)"></div>
+					<div class="hero_slide_container d-flex flex-column align-items-center justify-content-center">
+						<div class="hero_slide_content text-center">
+							<h1 data-animation-in="fadeInUp" data-animation-out="animate-out fadeOut">Connecting <span>Talent</span> with <span>Opportunity</span></h1> 
 						</div>
 					</div>
 				</div>
@@ -163,7 +174,7 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<!-- <img src="images/earth-globe.svg" class="svg" alt=""> -->
+							<img src="images/professional.svg">
 							<div class="hero_box_content">
 								<a href="professional.php">
 								<h2 class="hero_box_title" style="padding-right: 10px;">Professional Development</h2>
@@ -174,10 +185,10 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<!-- <img src="images/books.svg" class="svg" alt=""> -->
+							<img src="images/tnp.svg">
 							<div class="hero_box_content">
 								<a href="tnp.php">
-								<h2 class="hero_box_title">Training & Placement</h2>
+								<h2 class="hero_box_title">Placement & Internships</h2>
 								</a>
 							</div>
 						</div>
@@ -185,10 +196,10 @@
 
 					<div class="col-lg-4 hero_box_col">
 						<div class="hero_box d-flex flex-row align-items-center justify-content-start">
-							<!-- <img src="images/professor.svg" class="svg" alt=""> -->
+							<img src="images/corporate.svg">
 							<div class="hero_box_content">
 								<a href="corporate.php">
-								<h2 class="hero_box_title">Corporate Relations</h2>
+								<h2 class="hero_box_title" style="padding-right: 20px;">Corporate Relations</h2>
 								</a>
 							</div>
 						</div>
@@ -205,36 +216,17 @@
 
 	<div class="popular page_section">
 		<div class="container">
-			<div class="row" style="color: #535b60;">
+			<div class="row" style="color: #000000;">
 				  <div class="col-md-8 col-sm-12">
-				  	<div>
-                                        <p><h1><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1></p>
-                                       <h2><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
-<!--<div class="region region-content">
-<div id="block-system-main" class="block block-system">
-<div class="content">
-<div class="content node-page">
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
-<p>&nbsp;&nbsp;</p>
-<div class="field-items">
-<div class="field-item even">-->
-
-<p id="main_text" align="justify" style="color: #535b60;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered the most toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
-
-<p id="main_text" align="justify" style="color: #535b60;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
-
-<p id="main_text" align="justify" style="color: #535b60;">Being the pioneer batch of the institute, the students have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
-
-<p id="main_text" align="justify" style="color: #535b60;">The students have to complete 10-week mandatory internship program. Overwhelming response was received from the organizations where the students underwent internship this year and the students have been certified as highly productive and industry ready.</p>
-
-<p id="main_text" align="justify" style="color: #535b60;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
-
-<h2 class="page-title"><i class="fas fa-angle-right"></i>&nbsp;Selection Process</h2>
-<!--<p> &nbsp;&nbsp;<br />-->
-
-<p id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
-								</div>
-                            </div>
+				  	<h2>IIT Ropar, through their Career Development and Corporate Relations Centre (CDCRC) aims at</h2>
+				  	<ul style="list-style-type: disc;">
+				  		<h2 style="padding-left: 1em;"><li>Giving its students a career orientation in terms of options they have, namely careers in the industry, academia, R&D, entrepreneurship, public service etc.</li></h2>
+				  		<h2 style="padding-left: 1em;"><li>Organizing professional development activities</li></h2>
+				  		<h2 style="padding-left: 1em;"><li>Familiarize students with industry expectations and other career alternatives</li></h2>
+				  		<h2 style="padding-left: 1em;"><li>Helping students to discover their interest for leveraging opportunities provided through IIT Ropar which will help them launch themselves in careers that will maximize one's potential to excel.</li></h2>
+				  		<h2 style="padding-left: 1em;"><li>Building close contacts with the Industry through their Corporate Relations Unit which will help the Institute become the most preferred campus for a variety of employers for campus recruitment and also in terms of interaction with the Institute faculty and for R&D facilities, Consultancy and Continuing Education and other Industry-Institute Interaction programmes.</li></h2>
+				  	</ul>
+                  </div>
                                  <div class="col-md-4 col-sm-12">
                                  	<div class="col-md-12">
                                  		<!-- News -->

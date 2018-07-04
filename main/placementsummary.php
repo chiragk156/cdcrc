@@ -116,14 +116,13 @@
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/summary.jpg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Training and Placement</h1>
 		</div>
 
 	</div>
-<marquee style="color: #FFFFFF; background: #21618C;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3><a href="#" style="color: #FFFFFF">Events</a></h3></marquee>
 	<!-- Popular -->
 
 	<div class="popular page_section">

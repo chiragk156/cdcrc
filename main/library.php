@@ -55,15 +55,21 @@
                                 <a class="dropdown-item" href="gradresourses.php">For Graduate Students</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="gallery.php" class="nav-link">Gallery</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Initiatives</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="internship.php">CDCRC Innovation Internship</a>
+                                <a class="dropdown-item" href="rspr.php">Research Scholar Peer Learning</a>
+                            </div>
+						</li>
 						<li class="main_nav_item"><a href="webpages.php" class="nav-link">Webpages</a></li>
 					</ul>
 				</div>
 			</nav>
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
-			<img src="images/phone-call.svg" alt="">
-			<span>+91 78142 52244</span>
+			<img src="images/envelope.svg">
+			<span>hod.pd@iitrpr.ac.in</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -114,7 +120,7 @@
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/library.jpg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Professional Development</h1>
@@ -259,13 +265,7 @@
 			</div>
 			<br>
 			<ul class="pagination justify-content-center" style="margin:20px;">
-				  <li class="page-item active"><a class="page-link" href="#">1</a></li>
-				  <li class="page-item"><a class="page-link" href="library2.php">2</a></li>
-				  <li class="page-item"><a class="page-link" href="library3.php">3</a></li>
-				  <li class="page-item"><a class="page-link" href="library3.php">4</a></li>
-				  <li class="page-item"><a class="page-link" href="library3.php">5</a></li>
-				  <li class="page-item"><a class="page-link" href="library3.php">6</a></li>
-				  <li class="page-item"><a class="page-link" href="library2.php">Next</a></li>
+				  <li class="page-item"><a class="page-link" href="library2.php">More</a></li>
 				</ul>
 		</div>	
 	</div>
