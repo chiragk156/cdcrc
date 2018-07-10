@@ -17,6 +17,7 @@ CREATE TABLE cdcrc_events (
 	event_id INT NOT NULL AUTO_INCREMENT,
 	display_text VARCHAR(200) NOT NULL,
 	link VARCHAR(150) DEFAULT '#',
+	type VARCHAR(5),
 	PRIMARY KEY (event_id)
 );
 
@@ -24,6 +25,7 @@ CREATE TABLE cdcrc_news (
 	news_id INT NOT NULL AUTO_INCREMENT,
 	display_text VARCHAR(200) NOT NULL,
 	link VARCHAR(150) DEFAULT '#',
+	type VARCHAR(5),
 	PRIMARY KEY (news_id)
 );
 

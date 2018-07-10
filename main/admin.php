@@ -5,13 +5,15 @@ session_start();
 if(isset($_SESSION['userid'])){
 	echo "<a href=\"logout.php\">Log out</a>";
 	echo "<h1>Events</h1>";
-	$sql = "SELECT * FROM cdcrc_events ORDER BY event_id DESC";
+	if($_SESSION['userid']=="admin") $sql = "SELECT * FROM cdcrc_events ORDER BY event_id DESC";
+	else $sql = "SELECT * FROM cdcrc_events WHERE type=\"".$_SESSION['userid']."\" ORDER BY event_id DESC";
 	$result = $con->query($sql);
 	echo "<table style=\"border: 1px solid black;\">";
 	echo "<tr>
     <th style=\"border: 1px solid black;\">Event Id</th>
     <th style=\"border: 1px solid black;\">Display Text</th> 
     <th style=\"border: 1px solid black;\">Link</th>
+    <th style=\"border: 1px solid black;\">Type</th>
   </tr>";
 	if ($result->num_rows > 0) {
 	    while($row = $result->fetch_assoc()) {
@@ -19,6 +21,7 @@ if(isset($_SESSION['userid'])){
 	    	<td style=\"border: 1px solid black;\">".$row["event_id"]."</td>
 	    	<td style=\"border: 1px solid black;\">".$row["display_text"]."</td>
 	    	<td style=\"border: 1px solid black;\">".$row["link"]."</td>
+	    	<td style=\"border: 1px solid black;\">".$row["type"]."</td>
 	    	</tr>";
 	    }
 	} else {
@@ -39,13 +42,15 @@ if(isset($_SESSION['userid'])){
 </form><br>";
 	
 	echo "<h1>News</h1>";
-	$sql = "SELECT * FROM cdcrc_news ORDER BY news_id DESC";
+	if($_SESSION['userid']=="admin") $sql = "SELECT * FROM cdcrc_news ORDER BY news_id DESC";
+	else $sql = "SELECT * FROM cdcrc_news WHERE type=\"".$_SESSION['userid']."\" ORDER BY news_id DESC";
 	$result = $con->query($sql);
 	echo "<table style=\"border: 1px solid black;\">";
 	echo "<tr>
     <th style=\"border: 1px solid black;\">News Id</th>
     <th style=\"border: 1px solid black;\">Display Text</th> 
     <th style=\"border: 1px solid black;\">Link</th>
+    <th style=\"border: 1px solid black;\">Type</th>
   </tr>";
 	if ($result->num_rows > 0) {
 	    while($row = $result->fetch_assoc()) {
@@ -53,6 +58,7 @@ if(isset($_SESSION['userid'])){
 	    	<td style=\"border: 1px solid black;\">".$row["news_id"]."</td>
 	    	<td style=\"border: 1px solid black;\">".$row["display_text"]."</td>
 	    	<td style=\"border: 1px solid black;\">".$row["link"]."</td>
+	    	<td style=\"border: 1px solid black;\">".$row["type"]."</td>
 	    	</tr>";
 	    }
 	} else {

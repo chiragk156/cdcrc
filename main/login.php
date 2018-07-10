@@ -1,8 +1,8 @@
 <?php
-	if (isset($_POST[userid]) && isset($_POST["password"])) {
-		if($_POST[userid]=="admin" && $_POST[password]=="12qwaszx"){
+	if (isset($_POST["userid"]) && isset($_POST["password"])) {
+		if(($_POST["userid"]=="admin" && $_POST["password"]=="12qwaszx")||($_POST["userid"]=="tnp" && $_POST["password"]=="12qwaszx")||($_POST["userid"]=="pd" && $_POST["password"]=="12qwaszx")||($_POST["userid"]=="cr" && $_POST["password"]=="12qwaszx")){
 			session_start();
-            $_SESSION['userid'] = "admin";
+            $_SESSION['userid'] = $_POST["userid"];
             header("Location: admin.php");
 		}
 	}
