@@ -28,6 +28,7 @@ include "common.php";
 				<div class="logo">
 					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
+					<h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3>
 				</div>
 			</div>
 
@@ -46,12 +47,19 @@ include "common.php";
 							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Industrial</a>
 							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="#">Consultancy</a>
-                                <a class="dropdown-item" href="#">Membership</a>
+                                <a class="dropdown-item" href="#">Sponsored Research</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="#">Sponsored Research</a></li>
-						<li class="main_nav_item"><a href="#">Central Lab Facility</a></li>
-						<li class="main_nav_item"><a class="nav-link" href="departments.php">Departments</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Facilities</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="#">Central Research Facility</a>
+                                <a class="dropdown-item" href="departments.php">Departments</a>
+                                <a class="dropdown-item" href="#">Research Domain</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="#" class="nav-link">Membership</a></li>
+						<li class="main_nav_item"><a href="https://sites.google.com/site/ropariprcell/" class="nav-link">IPR Policy</a></li>
 						<!-- <li class="main_nav_item dropdown">
 							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">Department</a>
 							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
@@ -59,7 +67,6 @@ include "common.php";
                                 <a class="dropdown-item" href="#">Faculty</a>
                             </div>
 						</li> -->
-						<li class="main_nav_item"><a href="#">Research Domains</a></li>
 					</ul>
 				</div>
 			</nav>
@@ -117,7 +124,7 @@ include "common.php";
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/cr_background.png)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Corporate Relations</h1>
