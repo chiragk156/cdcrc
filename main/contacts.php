@@ -157,10 +157,22 @@ Mob: +91-86990-20183</td>
 </tbody>
 </table>-->
     
-<pre><h2><strong><strong>Head, Training &amp; Placement :</strong></strong>                                        <strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></h2>
-        <h2>        <strong>Dr. Dhiraj K. Mahajan</strong>                                                                    <strong>Mr. Subodh Sharma</strong>     
-        <h3>        <a href="mailto:hod.placement@iitrpr.ac.in">hod.placement@iitrpr.ac.in</a>                                                                                    <a href="mailto:placement@iitrpr.ac.in">placement@iitrpr.ac.in</a>
-            Mob: +91-78142-52244                                                                                        Mob: +91-86990-20183</h3></h2></pre>
+<pre><h2><strong><strong>Head, Training &amp; Placement :</strong></strong>                                        <strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></h2></pre>
+       
+                 <div class="row">
+                     
+                        <img style="margin-left:65px;width:190px;height:200px;"src="http://www.iitrpr.ac.in/sites/default/files/SmilingPassportPhotoOriginal.jpg">
+                   
+
+                    
+                        <img  style="margin-left:340px;" src="https://media.licdn.com/dms/image/C5103AQHXHSgbxd6J_w/profile-displayphoto-shrink_200_200/0?e=1536192000&v=beta&t=fppZQM2ccdJ9R542UcqxFPtU5i3-YvbZ__Vi7nLwm5s">
+                    
+                 </div>
+
+
+<pre><h2 style="margin-top:5px;">        <strong>Dr. Dhiraj K. Mahajan</strong>                                                                    <strong>Mr. Subodh Sharma</strong>     
+      <span style="font-size:18px;"> hod.placement@iitrpr.ac.in                                                                                    placement@iitrpr.ac.in
+            Mob: +91-78142-52244                                                                                        Mob: +91-86990-20183</span></h2></pre>
 
 <!--<h2><strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></h2>
 <h2><strong>Mr. Subodh Sharma</strong></h2>

@@ -135,40 +135,98 @@
 			<div class="row">
 				<div class="col">
 					<div class="section_title text-center">
-						<h1>CDCRC Lecture Series</h1>
+						<h1>Resources for UG Students</h1>
 					</div>
+                        
 				</div>
 			</div>
+                        <p>&nbsp;</p>
+
+                        
 			<div class="row">
-				<ul style="color: #000000;">
-					&nbsp;<h2><li>The Career Development and Corporate Relations Centre in 2018 organized the following lectures:</li></h2>
-					<ol type="i" style="margin-left:3em;">
-						<h3><li>“Creating an effective first professional impression” - Prof. Deepti Gupta (Dean, International Students, Panjab University) and Ms. Tanvi Malhotra (Trainer-Communication Skills)</li></h3>
-						<h3><li>Strategies of Effective Business Communication - Ms. Vishwapriya Kochhar  (Co-Founder and Managing Director, M/S Blewminds)</li></h3>
-						<h3><li>“How to 'Present Your 'Best Self' at an interview” - Ms. Annesha Dutta (Founder- 'AskAnnie Consulting')</li></h3>
-						<h3><li> Soft Skill Training for students by an external agency</li></h3>
-					</ol>
+                               
+				<h2 style="color:black;font-size:30px;font-style:italic;">Undergraduate students may find some of these videos to be useful for their career aspirations:   </h2>
+                        </div>
+                        </p>
 
-					&nbsp;<h2><li>Organization of workshops by professionals interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</li></h2>
-					<h3 style="margin-left: 2em;">To cater to this objective, IIT Ropar invited the following distinguished speakers on sharing their experience: </h3>
-					<ol type="i" style="margin-left: 4em;">
-						<h3><li>GREAT TALKS organized by British Council UK @ IIT Ropar - Dr. Venkat V S S Sastry (Cranfield University) and British Council, UK</li></h3>
-						<h3><li> "Startup in Financial Domain"- Mr. Tajinder Singh Virk (CEO and Co-Founder Finvasia)</li></h3>
-						<h3><li> “A Career in Computer Programming” - Mr. Anup Kalbalia (Lead, CodeChef)</li></h3>
-						<h3><li>“I have an Idea, what next?” - Dr. Sachin Jain (Director SKYi Composites Pvt. Ltd.)</li></h3>
-						<h3><li>“Engineering Your Career” - Dr. Dheepa Srinivasan (Consultant, Additive Technologies and High Temp. Materials and Coatings, Formerly, Principal Engineer, GE, Power)</li></h3>
-						<h3><li>“How graduate students can prepare themselves for international research opportunities” - Prof. Christopher Berndt (Swinburne University, Australia  and VAJRA Faculty-IIT Ropar)</li></h3>
-					</ol>
+                       
 
-					<!-- &nbsp;<h2><li>Development of resources for professional development (e.g. library development, peer-learning initiatives, adult learning) for enriching the future scientific and technical workforce in addition to classroom learning.</li></h2>
-					<ol type="i" style="margin-left: 3em;">
-						<h3><li>Under this initiative, ~65 books have been procured on professional development by the IIT Ropar Library and more titles will be procured.</li></h3>
-						<h3><li>The office is working with the Dean (Research) office to encourage research scholars to conceptualize and develop an IIT Ropar Peer Learning initiative, with the intention to develop a learning community where they will be organizing workshops.</li></h3>
-						<h3><li>A formal CDCRC Innovation Internship programme was initiated in June 2018 which has five IIT Ropar students in the current cohort. The idea is to engage student   talent to achieve institutional objectives like excellent industry relations, prolonged industry engagement through placement and internships and professional development.</li></h3>
-						<h3><li>In June 2018 the office organized the visit of three undergraduate students and six undergraduate student entrepreneurs for the CII IT-Non IT B2B Meetup at CII Office, Chandigarh.</li></h3>
-					</ol> -->
 
-				</ul>
+                       <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe  width="560" height="315" src="https://www.youtube.com/embed/c0KYU2j0TM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/Ks-_Mh1QhMc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       
+                           </div>
+                       </div>
+
+                       <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/D9prLpdrG6g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-xs-12">
+                             <iframe width="560" height="315" src="https://www.youtube.com/embed/eAnHjuTQF3M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+                       </div>
+ 
+                       <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/eIho2S0ZahI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/Kz7qhL3ZiZI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       
+                           </div>
+                       </div>
+
+                       <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/etT1gQLEoM4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/BmYv8XGl-YU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>"
+                       
+                           </div>
+                       </div>
+
+                       
+
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe  width="560" height="315" src="https://www.youtube.com/embed/UF8uR6Z6KLc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/ji5_MqicxSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+                       
+                           </div>
+                       </div>
+
+
+                       
+
+                          
+                       
+
+
+
+
+                      
+                        <p>&nbsp;</p>
+      
+                        <h3 style="color:blue;font-style:italic;">  Career Development and Corporate Relations Center at IIT Ropar (CDCRC-IIT Ropar) provides links to a number of external websites via </h3>
+                        <h3 style="color:blue;font-style:italic;">  this webpage. Monitoring and reviewing content of these third party external websites is not the responsibility of CDCRC-IIT Ropar nor </h3>
+                        <h3 style="color:blue;font-style:italic;">  does the CDCRC-IIT Ropar endorse, approve or recommend the content, owners or operators of websites and applications available</h3>
+                        <h3 style="color:blue;font-style:italic;">  through this website.</h3>
+
+       
+
 
 			</div>
 		</div>		

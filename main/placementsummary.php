@@ -11,6 +11,10 @@
 <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/courses_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/courses_responsive.css">
+<style>
+td
+ {font-size:20px;}
+</style>
 
 </head>
 <body>
@@ -149,7 +153,7 @@
 <td width="100" style="text-align: center;color:black;"><strong>Overall</strong></td>
 </tr>
 <tr>
-<td width="192" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
+<td width="220" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
 <td width="100" style="text-align: center;color:black;">35</td>
 <td width="100" style="text-align: center;color:black;">22</td>
 <td width="100" style="text-align: center;color:black;">25</td>
@@ -193,7 +197,7 @@
 <td width="100" style="text-align: center;color:black;"><strong>Overall</strong></td>
 </tr>
 <tr>
-<td width="192" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
+<td width="220" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
 <td width="100" style="text-align: center;color:black;">32</td>
 <td width="100" style="text-align: center;color:black;">34</td>
 <td width="100" style="text-align: center;color:black;">29</td>
@@ -237,7 +241,7 @@
 <td width="100" style="text-align: center;color:black;"><strong>Overall</strong></td>
 </tr>
 <tr>
-<td width="192" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
+<td width="220" height="50" style="text-align: center;color:black;"><strong>Number of students registered</strong></td>
 <td width="100" style="text-align: center;color:black;">34</td>
 <td width="100" style="text-align: center;color:black;">30</td>
 <td width="100" style="text-align: center;color:black;">24</td>
