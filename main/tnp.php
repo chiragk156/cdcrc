@@ -156,18 +156,33 @@
                                  	<div class="col-md-12">
                                  		<!-- News -->
                             			<div style="max-height:300px;overflow-y:scroll;padding-right:16px;padding-bottom:30px;">
-                            				<h2 style="padding-bottom:10px;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
+                            				<h2 style="padding-bottom:10px;font-style:italic;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
                             			</div>
                             			<!-- Quick Links -->
                             			<div class="row">
                             			<div class="col-sm-6 col-md-12">
                             				<br>
-                                			<h2><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
+                                			<h2 style="font-style:italic;"><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
                             			</div>
                             			<!-- Reach Us -->
                                 		<div class="col-sm-6 col-md-12">
                                 		<br>
-                                    	<h2><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
+                                    	<h2 style="font-style:italic;"><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
+                                                 <br>
+								<h3>HOD Placement and Internships:</h3>
+								<h4 style="font-style:italic;">hod.placement@iitrpr.ac.in , 7814252244</h4>
+                                                		<h3>HOD Corporate Relations: </h3>
+								<h4 style="font-style:italic;">hod.cr@iitrpr.ac.in, 8427587779</h4>
+                                                                <h3>HOD Professional Development:</h3>
+								<h4 style="font-style:italic;"> hod.pd@iitrpr.ac.in</h4>
+                                                                <h3>Placement and Corporate Relations Manager</h3>
+								<h4 style="font-style:italic;"> subodh.sharma@iitrpr.ac.in,  8699020183</h4>
+                                                                <h3>CDCRC Office: </h3>
+								<h4 style="font-style:italic;">cdcrc.office@iitrpr.ac.in</h4>
+                                                                <h3>IIT Ropar Corporate Relations Office: </h3>
+								<h4 style="font-style:italic;">cr.office@iitrpr.ac.in</h4>
+
+
                                     	</div>
                             			</div>
                                  	</div>

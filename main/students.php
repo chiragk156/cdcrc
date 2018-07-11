@@ -125,7 +125,7 @@
 			<div class="row" style="color: #535b60;">
 				  <div class="col-md-8 col-sm-12">
 				        <!--<p style="margin-top:10px;">Home>>Prospective Students</p>-->
-                                        <p><h1><i class="fas fa-angle-right"></i> &nbsp;Student Profiles</h1></p>
+                                        <p><h1 style="color:black;"><i class="fas fa-angle-right"></i> &nbsp;Student Profiles</h1></p>
                                         
                                         <img src="images/btech.png" style="max-width: 800px;" />
                                         
