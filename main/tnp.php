@@ -1,3 +1,6 @@
+<?php 
+include "common.php";
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -58,8 +61,12 @@
 			</nav>
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
-			<img src="images/phone-call.svg" alt="">
-			<span>+91 78142 52244</span>
+			<span><img src="images/phone-call.svg" alt="">&nbsp;+91 78142 52244<br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" style="color: #FFFFFF; margin-right: 20px;" onmouseover="this.style.color='#FFD800'" onmouseout="this.style.color='#FFFFFF'"><i class="fab fa-linkedin-in"></i></a>
+				<a href="#" style="color: #FFFFFF; margin-right: 20px;" onmouseover="this.style.color='#FFD800'" onmouseout="this.style.color='#FFFFFF'"><i class="fab fa-facebook-f"></i></a>
+				<a href="#" style="color: #FFFFFF; margin-right: 20px;" onmouseover="this.style.color='#FFD800'" onmouseout="this.style.color='#FFFFFF'"><i class="fab fa-twitter"></i></a>
+				<a href="#" style="color: #FFFFFF;" onmouseover="this.style.color='#FFD800'" onmouseout="this.style.color='#FFFFFF'"><i class="fab fa-youtube"></i></a>
+			</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -117,7 +124,21 @@
 		</div>
 
 	</div>
-<marquee style="color: #FFFFFF; background: #21618C;" onMouseOver="this.stop()" onMouseOut="this.start()"><h3><a href="#" style="color: #FFFFFF">Events</a></h3></marquee>
+			<?php
+				echo "<marquee style=\"color: #FFFFFF; background: #21618C;\" onMouseOver=\"this.stop()\" onMouseOut=\"this.start()\"><h3>";
+				$sql = "SELECT * FROM cdcrc_events WHERE type=\"tnp\" ORDER BY event_id DESC";
+				$result = $con->query($sql);
+
+				if ($result->num_rows > 0) {
+				    while($row = $result->fetch_assoc()) {
+				    	echo "|&nbsp; <a href=\"".$row["link"]."\" style=\"color: #FFFFFF\">".$row["display_text"]."</a>&nbsp;";    
+				    }
+				    echo "&nbsp;|";
+				} else {
+				    echo "<a href=\"#\" style=\"color: #FFFFFF\">No Events</a>";
+				}
+				echo "</h3></marquee>";
+			?>
 	<!-- Popular -->
 
 	<div class="popular page_section">
@@ -156,15 +177,18 @@
                                  	<div class="col-md-12">
                                  		<!-- News -->
                             			<div style="max-height:300px;overflow-y:scroll;padding-right:16px;padding-bottom:30px;">
-                            				<h2 style="padding-bottom:10px;font-style:italic;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
-                            			</div>
-                            			<!-- Quick Links -->
-                            			<div class="row">
-                            			<div class="col-sm-6 col-md-12">
-                            				<br>
-                                			<h2 style="font-style:italic;"><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
-                            			</div>
-                            			<!-- Reach Us -->
+                            				<h2 style="padding-bottom:10px;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
+                            				<ul>
+                            					<?php
+                            						$sql = "SELECT * FROM cdcrc_news WHERE type=\"tnp\" ORDER BY news_id DESC";
+													$result = $con->query($sql);
+													if ($result->num_rows > 0){
+														while($row = $result->fetch_assoc()){
+															echo "<li><a href=\"".$row["link"]."\" style=\"color: #000000;\" onmouseover=\"this.style.color='#21618C'\" onmouseout=\"this.style.color='#000000'\"><h3><i class=\"fas fa-angle-right\"></i> &nbsp;".$row["display_text"]."</h3></a></li>";
+														}
+													}
+                            					?>
+                            				</ul>
                                 		<div class="col-sm-6 col-md-12">
                                 		<br>
                                     	<h2 style="font-style:italic;"><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>

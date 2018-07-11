@@ -29,8 +29,9 @@ include "common.php";
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
+					<h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3>
 				</div>
 			</div>
 
@@ -39,7 +40,7 @@ include "common.php";
 				<div class="main_nav">
 					<ul class="main_nav_list">
 						<li class="main_nav_item dropdown">
-							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">Home</a>
+							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="margin-left: 50px;">Home</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">From The Director's Desk</a>
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Role of CDCRC</a>
@@ -240,6 +241,7 @@ include "common.php";
 		<div class="container">
 			<div class="row" style="color: #000000;">
 				  <div class="col-md-8 col-sm-12">
+				  	<h1>About Career Development and Corporate Relations Centre</h1>
 				  	<h2><i class="fas fa-angle-right"></i> &nbsp;IIT Ropar, through their Career Development and Corporate Relations Centre (CDCRC) aims at</h2>
 				  	<ul style="list-style-type: disc;">
 				  		<h2 style="padding-left: 1em;"><li>Giving its students a career orientation in terms of options they have, namely careers in the industry, academia, R&D, entrepreneurship, public service etc.</li></h2>
@@ -255,18 +257,19 @@ include "common.php";
                             			<div style="max-height:300px;overflow-y:scroll;padding-right:16px;padding-bottom:30px;">
                             				<h2 style="padding-bottom:10px;font-style:italic;"><i class="fa fa-list-alt"></i> &nbsp;Recent News</h2>
                             				<ul>
-                            					<li><a href="#" style="color: #000000;" onmouseover="this.style.color='#21618C'" onmouseout="this.style.color='#000000'"><h3><i class="fas fa-angle-right"></i> &nbsp;News1</h3></a></li>
+                            					<!-- <li><a href="#" style="color: #000000;" onmouseover="this.style.color='#21618C'" onmouseout="this.style.color='#000000'"><h3><i class="fas fa-angle-right"></i> &nbsp;News1</h3></a></li> -->
+                            					<?php
+                            						$sql = "SELECT * FROM cdcrc_news ORDER BY news_id DESC";
+													$result = $con->query($sql);
+													if ($result->num_rows > 0){
+														while($row = $result->fetch_assoc()){
+															echo "<li><a href=\"".$row["link"]."\" style=\"color: #000000;\" onmouseover=\"this.style.color='#21618C'\" onmouseout=\"this.style.color='#000000'\"><h3><i class=\"fas fa-angle-right\"></i> &nbsp;".$row["display_text"]."</h3></a></li>";
+														}
+													}
+                            					?>
                             				</ul>
                             			</div>
-                            			<!-- Quick Links -->
-                            			<div class="row">
-                            			<div class="col-sm-6 col-md-12">
-                            				<br>
-                                			<h2 style="font-style:italic;"><i class="fas fa-external-link-alt"></i> &nbsp;Quick Links</h2>
-                            			</div>
-                            			<!-- Reach Us -->
-                                		<div class="col-sm-6 col-md-12">
-                                		<br>
+                            			
                                     	<h2 style="font-style:italic;"><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
                                                  <br>
 								<h3>HOD Placement and Internships:</h3>
@@ -282,8 +285,8 @@ include "common.php";
                                                                 <h3>IIT Ropar Corporate Relations Office: </h3>
 								<h4 style="font-style:italic;">cr.office@iitrpr.ac.in</h4>
 
-s
                                     	</div>
+
                             			</div>
                                  	</div>
                                  </div>
