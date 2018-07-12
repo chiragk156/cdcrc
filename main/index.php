@@ -31,7 +31,7 @@ include "common.php";
 				<div class="logo">
 					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
-					<h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3>
+					<div class="cdcrc"><h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3></div>
 				</div>
 			</div>
 
@@ -42,7 +42,7 @@ include "common.php";
 						<li class="main_nav_item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="margin-left: 50px;">Home</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
-                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">From The Director's Desk</a>
+                                <a class="dropdown-item" href="directordesk.php">From The Director's Desk</a>
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Role of CDCRC</a>
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Structure of CDCRC</a>
                             </div>
@@ -269,9 +269,15 @@ include "common.php";
                             					?>
                             				</ul>
                             			</div>
+                            			<br>
+                                    	<h2><i class="fab fa-facebook-f" aria-hidden="true"></i>&nbsp;&nbsp;Facebook</h2>
+                                    	<div class="fb-page" data-href="https://www.facebook.com/Career-Development-Corporate-Relations-Center-IIT-Ropar-169217773601805/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Career-Development-Corporate-Relations-Center-IIT-Ropar-169217773601805/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Career-Development-Corporate-Relations-Center-IIT-Ropar-169217773601805/">Career Development &amp; Corporate Relations Center, IIT Ropar</a></blockquote></div>
                             			
-                                    	<h2 style="font-style:italic;"><i class="fas fa-envelope"></i> &nbsp;Quick Contacts</h2>
-                                                 <br>
+                            			<br>
+                            			<br>
+                            			<br>
+                                    	<h2 style="font-style:italic;"><i class="fas fa-envelope"></i> &nbsp; &nbsp;Quick Contacts</h2>
+                                                 
 								<h3>HOD Placement and Internships:</h3>
 								<h4 style="font-style:italic;">hod.placement@iitrpr.ac.in , 7814252244</h4>
                                                 		<h3>HOD Corporate Relations: </h3>
@@ -284,9 +290,7 @@ include "common.php";
 								<h4 style="font-style:italic;">cdcrc.office@iitrpr.ac.in</h4>
                                                                 <h3>IIT Ropar Corporate Relations Office: </h3>
 								<h4 style="font-style:italic;">cr.office@iitrpr.ac.in</h4>
-
-                                    	</div>
-
+										</div>
                             			</div>
                                  	</div>
                                  </div>
@@ -470,4 +474,12 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <script src="js/custom.js"></script>
 
 </body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 </html>

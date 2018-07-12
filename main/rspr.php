@@ -120,7 +120,7 @@
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/rspr.jpeg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/rspr.jpg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Professional Development</h1>
@@ -141,7 +141,7 @@
 			</div>
 			<div class="row">
 				&nbsp;<h2 style="color: #000000;">CDCRC is working with the Dean (Research) office to encourage research scholars to conceptualize and develop an IIT Ropar Peer Learning initiative, with the intention to develop a learning community where the students will be organizing workshops. For 2018 the following workshops have been organized</h2>
-				
+				<iframe style="width: 100%; height: 600px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgWRTgDispQ5ZAABC9_jK1A3PZPa_Y0dfkT4mTcovr6AVAJ_safbH3Z68ZWec_uD0lFtpRH9Cv-y0X/pubhtml?widget=true&amp;headers=false"></iframe>
 
 			</div>
 		</div>		

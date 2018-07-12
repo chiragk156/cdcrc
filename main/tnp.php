@@ -54,8 +54,15 @@ include "common.php";
                                  <a class="dropdown-item" href="http://www.iitrpr.ac.in/research-iit-ropar">Research & Development</a>
                             </div>
 						</li>
-						<li class="main_nav_item"><a href="recruiters.php">For Recruiters</a></li>
-						<li class="main_nav_item"><a href="placementsummary.php">Summary</a></li>
+						<li class="main_nav_item dropdown">
+							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Recruiters</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="recruiters.php">Placement Procedure</a>
+                                <a class="dropdown-item" target="_blank" href="https://drive.google.com/open?id=1eZza_gCHrIis2TsSWn8gwOYv7cuWtFiD">Download JAF</a>
+                                <a class="dropdown-item" target="_blank" href="https://drive.google.com/open?id=1idFnfF8ZxCAPkY-R8aXAPnA0RyO-Wcm2">Download INF</a>
+                            </div>
+						</li>
+						<li class="main_nav_item"><a href="placementsummary.php">Statistics</a></li>
 						<li class="main_nav_item"><a href="contacts.php">contact</a></li>
 					</ul>
 				</div>

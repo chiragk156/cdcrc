@@ -28,6 +28,7 @@ include "common.php";
 				<div class="logo">
 					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
+					<div class="cdcrc"><h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3></div>
 				</div>
 			</div>
 
