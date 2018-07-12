@@ -43,8 +43,8 @@ include "common.php";
 							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="margin-left: 50px;">Home</a>
                             <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="directordesk.php">From The Director's Desk</a>
-                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Role of CDCRC</a>
-                                <a class="dropdown-item" href="http://www.iitrpr.ac.in/TP/index.php/msg-from-director/">Structure of CDCRC</a>
+                                <a class="dropdown-item" href="role.php">Role of CDCRC</a>
+                                <a class="dropdown-item" href="structure.php">Structure of CDCRC</a>
                             </div>
                         </li>
 						<li class="main_nav_item dropdown">

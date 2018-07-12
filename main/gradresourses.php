@@ -94,12 +94,39 @@
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="index.php">Home</a></li>
-					<li class="menu_item menu_mm"><a href="#">About us</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Recruiters</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Students</a></li>
-					<li class="menu_item menu_mm"><a href="#">Contact</a></li>
-				</ul>
+                                        <li class="menu_item menu_mm dropdown">
+							<a href="index.php" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Home</a>
+							<div class="dropdown-menu">
+                                <a class="dropdown-item" href="professional.php">Home</a>
+                                <a class="dropdown-item" href="index.php">CDCRC Home</a>
+                            </div>
+						</li>
+						<li class="menu_item menu_mm"><a href="lectseries.php">Lecture Series</a></li>
+						<li class="menu_item menu_mm dropdown">
+							<!-- <a href="#" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">opportunities</a>
+							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                                <a class="dropdown-item" href="tnp.php">Job/Placement</a>
+                                <a class="dropdown-item" href="#">UPSC</a>
+                                <a class="dropdown-item" href="#">GATE</a>
+                                <a class="dropdown-item" href="#">GRE/GMAT/CAT</a>
+                            </div> -->
+                            <a href="#" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Resources</a>
+							<div class="dropdown-menu">
+                                <a class="dropdown-item" href="library.php">Library</a>
+                                <a class="dropdown-item" href="ugresourses.php">For UG Students</a>
+                                <a class="dropdown-item" href="gradresourses.php">For Graduate Students</a>
+                            </div>
+						</li>
+						<li class="menu_item menu_mm dropdown">
+							<a href="index.php" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Initiatives</a>
+							<div class="dropdown-menu">
+                                <a class="dropdown-item" href="internship.php">CDCRC Innovation Internship</a>
+                                <a class="dropdown-item" href="rspr.php">Research Scholar Peer Learning</a>
+                            </div>
+						</li>
+						<li class="menu_item menu_mm"><a href="webpages.php">Webpages</a></li>
+
+									</ul>
 
 				<!-- Menu Social -->
 				
