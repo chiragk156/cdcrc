@@ -93,7 +93,7 @@
 						<li class="menu_item menu_mm"><a href="students.php">Students</a></li>
 						<li class="menu_item menu_mm dropdown">
 							<a href="#" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Academics</a>
-                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                            <div class="dropdown-menu">
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/academic">Academics</a>
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/departments-schools">Department</a>
                                 <a class="dropdown-item" href="http://www.iitrpr.ac.in/handbook-information">Course Description</a>
@@ -112,9 +112,9 @@
 					<ul class="menu_social menu_mm">
 						<!--<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>-->
 						<li class="menu_social_item menu_mm"><a target="_blank" href="https://in.linkedin.com/company/placementcelliitropar"><i class="fab fa-linkedin-in"></i></a></li>
-						<li class="menu_social_item menu_mm"><a target="_blank" href="#"><i class="fab fa-youtube"></i></a></li>
+						<li class="menu_social_item menu_mm"><a target="_blank" href="https://www.youtube.com/channel/UCvAgHSpVV8yfmu75OFBbomA"><i class="fab fa-youtube"></i></a></li>
 						<li class="menu_social_item menu_mm"><a target="_blank" href="https://www.facebook.com/Career-Development-Corporate-Relations-Center-IIT-Ropar-169217773601805/"><i class="fab fa-facebook-f"></i></a></li>
-						<li class="menu_social_item menu_mm"><a target="_blank" href="#"><i class="fab fa-twitter"></i></a></li>
+						<li class="menu_social_item menu_mm"><a target="_blank" href=""><i class="fab fa-twitter"></i></a></li>
 					</ul>
 				</div>
 

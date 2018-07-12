@@ -94,31 +94,57 @@ include "common.php";
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-					<li class="menu_item menu_mm"><a href="#">Home</a></li>
-					<li class="menu_item menu_mm"><a href="#">About us</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Companies</a></li>
-					<li class="menu_item menu_mm"><a href="#">For Students</a></li>
-					<li class="menu_item menu_mm"><a href="#">Contact</a></li>
+                                    <li class="menu_item menu_mm dropdown">
+							<a class="dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="margin-left: 50px;">Home</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="directordesk.php">From The Director's Desk</a>
+                                <a class="dropdown-item" href="role.php">Role of CDCRC</a>
+                                <a class="dropdown-item" href="structure.php">Structure of CDCRC</a>
+                            </div>
+                        </li>
+						<li class="menu_item menu_mm dropdown">
+							<a href="#" class="dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Companies</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="tnp.php">Training & Placement</a>
+                                <a class="dropdown-item" href="corporate.php">Corporate Relations</a>
+                            </div>
+						</li>
+						<li class="menu_item menu_mm dropdown">
+							<a href="#" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Students</a>
+                            <div class="dropdown-menu" >
+                                <a class="dropdown-item" href="professional.php">Professional Development</a>
+                                <a class="dropdown-item" href="tnp.php">Training & Placement</a>
+                            </div>
+						</li>
+						<li class="menu_item menu_mm"><a href="cdcrcteam.php" class="nav-link">CDCRC Team</a></li>
+
+
+
+
+					
 				</ul>
 
-				<!-- Menu Social -->
+                        <!-- Menu Social -->
 				
 				<div class="menu_social_container menu_mm">
 					<ul class="menu_social menu_mm">
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-instagram"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-						<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-twitter"></i></a></li>
+						<!--<li class="menu_social_item menu_mm"><a href="#"><i class="fab fa-pinterest"></i></a></li>-->
+						<li class="menu_social_item menu_mm"><a target="_blank" href="https://in.linkedin.com/company/placementcelliitropar"><i class="fab fa-linkedin-in"></i></a></li>
+						<li class="menu_social_item menu_mm"><a target="_blank" href="https://www.youtube.com/channel/UCvAgHSpVV8yfmu75OFBbomA"><i class="fab fa-youtube"></i></a></li>
+						<li class="menu_social_item menu_mm"><a target="_blank" href="https://www.facebook.com/Career-Development-Corporate-Relations-Center-IIT-Ropar-169217773601805/"><i class="fab fa-facebook-f"></i></a></li>
+						<li class="menu_social_item menu_mm"><a target="_blank" href=""><i class="fab fa-twitter"></i></a></li>
 					</ul>
 				</div>
 
-				<div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
 			</div>
 
 		</div>
-
+		<div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
 	</div>
+
+
+
+				
 	
 	<!-- Home -->
 
