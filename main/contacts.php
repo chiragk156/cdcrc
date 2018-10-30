@@ -242,57 +242,57 @@ Mob: +91-86990-20183</h3></pre>-->
   <div class="col-md-4 col-sm-12">-->
 <div class="row">
    <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Aditya_Raj-01-1-e1499237740647.jpeg" alt="Aditya_Raj-01" width="160" height="180" /></strong></p>
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/RohanEE.png" alt="Rohan" width="160" height="180" /></strong></p>
 </div>
   <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone wp-image-700" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Deepak_01-e1499145219905-279x300.jpg" alt="Deepak_01" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Deepak_01-e1499145219905-279x300.jpg 279w, http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Deepak_01-e1499145219905.jpg 431w" sizes="(max-width: 179px) 100vw, 179px" /></strong>
+<strong><img class="alignnone wp-image-700" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/VikrantSyal_Civil.jpg" alt="Vikrant" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/VikrantSyal_Civil.jpg" sizes="(max-width: 179px) 100vw, 179px" /></strong>
 </div>
- <div class="col-md-4 col-sm-12"><strong><img class="alignnone size-medium wp-image-709" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Abhijeet-Jain-e1499237378361-280x300.jpg" alt="Abhijeet Jain" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Abhijeet-Jain-e1499237378361-280x300.jpg 280w, http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Abhijeet-Jain-e1499237378361.jpg 448w" sizes="(max-width: 280px) 100vw, 280px" /></strong>
+ <div class="col-md-4 col-sm-12"><strong><img class="alignnone size-medium wp-image-709" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Komal.jpeg" alt="Komal" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Komal.jpeg" sizes="(max-width: 280px) 100vw, 280px" /></strong>
  </div> 
 </div>
 
 <div class="row">
    <div class="col-md-4 col-sm-12">
-        <pre><h3 style="color:black;">   Aditya Raj(CS)</h3></pre>
+        <pre><h3 style="color:black;">   Rohan Agarwal (EE)</h3></pre>
    </div>
 
     <div class="col-md-4 col-sm-12">
-        <pre><h3 style="color:black;">   Deepak Attri(EE)</h3></pre>
+        <pre><h3 style="color:black;">   Vikrant Syal (CE)</h3></pre>
    </div>
 
    <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Abhijeet Chaurasia (ME)</h3>                                           
+        <h3 style="color:black;"> Komal (CS)</h3>                                           
    </div>
 </div>
   <p>&nbsp;
 <div class="row">
      <div class="col-md-4 col-sm-12">
 
-<strong><img class="alignnone wp-image-710" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Tolani-255x300.png" alt="Tolani" width="160" height="180" /></strong></p>
+<strong><img class="alignnone wp-image-710" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Prerna-CS.jpg" alt="Prerna" width="160" height="180" /></strong></p>
 <p><strong> </strong>
      </div>
      <div class="col-md-4 col-sm-12">
 
-<strong><img class="alignnone wp-image-704" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Siddharth_02-e1499144873271-281x300.jpg" alt="Siddharth_02" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Siddharth_02-e1499144873271-281x300.jpg 281w, http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Siddharth_02-e1499144873271.jpg 451w" sizes="(max-width: 174px) 100vw, 174px" /></strong>
+<strong><img class="alignnone wp-image-704" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Sachan-Tewari_ME_15.jpg" alt="Sachan" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Sachan-Tewari_ME_15.jpg" sizes="(max-width: 174px) 100vw, 174px" /></strong>
      </div>
 
      <div class="col-md-4 col-sm-12">
 
-<strong><img class="alignnone size-medium wp-image-701" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Gaurav-e1499145061153-281x300.jpg" alt="Gaurav" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Gaurav-e1499145061153-281x300.jpg 281w, http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Gaurav-e1499145061153.jpg 448w" sizes="(max-width: 281px) 100vw, 281px" /></strong>
+<strong><img class="alignnone size-medium wp-image-701" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Ishtyaq-Choudhary-M.Tech-EE-2018.jpg" alt="Ishtyaq" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Ishtyaq-Choudhary-M.Tech-EE-2018.jpg" sizes="(max-width: 281px) 100vw, 281px" /></strong>
      </div>
 </div>
 
 <div class="row">
    <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Himanshu Tolani (CS)</h3>
+        <h3 style="color:black;"> Prerna Garg (CS)</h3>
    </div>
 
     <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Siddharth Khera (EE)</h3>
+        <h3 style="color:black;"> Sachan Tewari (ME)</h3>
    </div>
 
    <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Gaurav Behrani (ME)</h3>                                            
+        <h3 style="color:black;">Ishtyaq Choudhary (EE)</h3>                                            
    </div>
 </div>
  <p>&nbsp;
@@ -300,63 +300,163 @@ Mob: +91-86990-20183</h3></pre>-->
 <div class="row">
      <div class="col-md-4 col-sm-12">
 
-<strong><img class="alignnone wp-image-702" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Prakhar_01-e1499144999504-274x300.jpg" alt="Prakhar_01" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Prakhar_01-e1499144999504-274x300.jpg 274w, http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Prakhar_01-e1499144999504.jpg 748w" sizes="(max-width: 169px) 100vw, 169px" /></strong></p>
+<strong><img class="alignnone wp-image-702" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Sorabh-Yadav-EE.jpg" alt="Sorabh-Yadav" width="160" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Sorabh-Yadav-EE.jpg" sizes="(max-width: 169px) 100vw, 169px" /></strong></p>
     </div>
 
      <div class="col-md-4 col-sm-12">
-<img class="alignnone wp-image-711" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Vishal-e1499237482244.png" alt="Vishal" width="160" height="180" /><strong></strong>
+<img class="alignnone wp-image-711" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Chetan-Sainimech.jpg" alt="Chetan Saini" width="160" height="180" /><strong></strong>
      </div>
 
      <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2016/03/Shubham_01-e1499144950588-277x300.jpeg" alt="Shubham_01" width="160" height="180" /></strong>
+<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Ashish-CS-1.png" alt="Ashish" width="160" height="180" /></strong>
      </div>
  </div>
 
 
 <div class="row">
    <div class="col-md-4 col-sm-12">
-        <pre><h3 style="color:black;">  Prakhar Jain (CS)</h3></pre>
+        <pre><h3 style="color:black;">  Sorabh Yadav (EE)</h3></pre>
    </div>
 
     <div class="col-md-4 col-sm-12">
-        <pre><h3 style="color:black;">  Vishal Nair (ME)</h3></pre>
+        <pre><h3 style="color:black;">  Chetan Saini (ME)</h3></pre>
    </div>
 
    <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Shubham Sharma (ME)</h3>                                            
+        <h3 style="color:black;"> Ashish Kumar (CS)</h3>                                            
    </div>
 </div>
  <p>&nbsp;
 
+
 <div class="row">
    <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2017/08/IMG_7649.jpg" alt="Shubham Singh" width="160" height="180" /></strong>
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Pushpendra-VashishthaB.-Tech-ME-16.jpg" alt="Pushpendra" width="160" height="180" /></strong>
 
     </div>
    <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2017/09/rohit.jpg" alt="Rohit Bamne" width="160" height="180" /></strong>
-
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Rupali-Gupta.M.Sc-maths.jpg" alt="Rupali" width="160" height="180" /></strong>
    </div>
+   
+    <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Manya-Dave-BTech-EE16.jpg" alt="Manya" width="160" height="180" /></strong>
+     </div>
 </div>
 
 <p>
 
 <div class="row">
    <div class="col-md-4 col-sm-12">
-        <h3 style="color:black;">Shubham Singh (PG)</h3>
+        <h3 style="color:black;">Pushpendra-Vashishtha (ME)</h3>
    </div>
 
     <div class="col-md-4 col-sm-12">
-        <pre><h3 style="color:black;">  Rohit Bamne (PG)</h3></pre>
+        <pre><h3 style="color:black;">  Rupali Gupta (M.Sc)</h3></pre>
+   </div>
+   
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;">Manya Dave (EE)</h3>                                            
+   </div>
+</div>
+
+<p>&nbsp;
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Nikhil-Gupta-EE_15.jpg" alt="Nikhil" width="160" height="180" /></strong>
+
+    </div>
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Ahsaas-SharmaME.png" alt="Ahsaas" width="160" height="180" /></strong>
+   </div>
+   
+    <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Shubham-MSc.jpg" alt="Shubham" width="160" height="180" /></strong>
+     </div>
+</div>
+
+<p>
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;"> Nikhil Gupta (EE)</h3>
+   </div>
+
+    <div class="col-md-4 col-sm-12">
+        <pre><h3 style="color:black;">  Ahsaas Sharma (ME)</h3></pre>
+   </div>
+   
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;">Shubham (MSc)</h3>                                            
+   </div>
+</div>
+
+<p>&nbsp;
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Avinash-EE.png" alt="Avinash" width="160" height="180" /></strong>
+
+    </div>
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Aditya-VijayMSc.jpeg" alt="Aditya" width="160" height="180" /></strong>
+   </div>
+   
+    <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Pulak-Gupta-ME.jpg" alt="Pulak" width="160" height="180" /></strong>
+     </div>
+</div>
+
+<p>
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;"> Avinash Gupta(EE)</h3>
+   </div>
+
+    <div class="col-md-4 col-sm-12">
+        <pre><h3 style="color:black;">  Aditya Vijay (MSc)</h3></pre>
+   </div>
+   
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;">Pulak Gupta(ME)</h3>                                            
+   </div>
+</div>
+
+<p>&nbsp;
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/shubham-rahal-m.tech-mechanical-2017.jpg" alt="Shubham" width="160" height="180" /></strong>
+
+    </div>
+   <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Shrey-ME.jpeg" alt="Shrey" width="160" height="180" /></strong>
+   </div>
+   
+    <div class="col-md-4 col-sm-12">
+<strong><img class="alignnone size-medium wp-image-703" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Pulak-Gupta-ME.jpg" alt="Pulak" width="160" height="180" /></strong>
+     </div>
+</div>
+
+<p>
+
+<div class="row">
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;"> Shubham Rahal</h3>
+   </div>
+
+    <div class="col-md-4 col-sm-12">
+        <pre><h3 style="color:black;">  Shrey Sahai Gupta (ME)</h3></pre>
+   </div>
+   
+   <div class="col-md-4 col-sm-12">
+        <h3 style="color:black;">Pulak Gupta(ME)</h3>                                            
    </div>
 </div>
 
 
-
-
-
-
-                                  </div>
+ </div>
                        
        </div>
 
