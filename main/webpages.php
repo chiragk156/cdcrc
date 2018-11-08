@@ -191,15 +191,307 @@
 
                         </p>
 			<div class="row">
-				<h2 style="color:black;font-size:35px;">International Opportunities :  </h2>
+				<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+				<h2 style="color:black;font-size:35px;">Study Opportunities in International Countries  :  </h2>
+				<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
                         </div>
                         </p>
 
-                          <div class="row">
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		 <a href="https://www.studyinaustralia.gov.au/" > <a href=""> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Australia-resized.png" alt="Flag" width="150" height="100" /> </a>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://studyinaustria.at/en/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Austria-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="http://www.studyinbelgium.be/en"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Belgium-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="http://educanada.ca/index.aspx?lang=eng"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Canada-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<a href="http://studyindenmark.dk/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Denmark-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+ 
+</div>      
+
+
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Australia</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Austria</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Belgium</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Canada</h3>
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<h3 style="color:black;">Denmark</h3>
+   </div>
+ </div>
+ 
+</div>
+
+
+<p>&nbsp;</p>
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="http://www.studyinfinland.fi/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Finland-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://www.study-in.de/en/plan-your-studies/requirements/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Germany-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://studyinitaly.esteri.it/en/home_borse"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Italy-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="http://www.studyjapan.go.jp/en/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Japan-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<a href="https://www.nesoindia.org/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Netherlands-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+ 
+</div>      
+
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Finland</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Germany</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Italy</h3>
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<h3 style="color:black;">Japan</h3>
+   </div>
+ </div>
+ 
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Netherlands</h3>
+   </div>
+ </div>
+ 
+</div>
+          
+          
+          <p>&nbsp;</p>         
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://www.studyinnewzealand.govt.nz/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/NewZ-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://www.studyinnorway.no/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Norway-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://studyinsweden.se/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Seweden-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://eshorizonte2020.es/expressions-of-interests"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Spain-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<a href="https://www.swissnexindia.org/services/for-faculty-and-students/studying-in-switzerland/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Switzerland-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+ 
+</div>      
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">New Zealand</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Norway</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Sweden</h3>
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<h3 style="color:black;">Spain</h3>
+   </div>
+ </div>
+ 
+ 
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">Switzerland</h3>
+   </div>
+ </div>
+ 
+</div>
+
+<p>&nbsp;</p>
+
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://www.britishcouncil.in/study-uk"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/UK-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="http://www.usief.org.in/"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/US-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href="https://www.campusfrance.org/en"> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/France-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+<!--
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<a href=""> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Canada-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<a href=""> <img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Denmark-resized.png" alt="Flag" width="150" height="100" />
+   </div>
+ </div>
+ -->
+</div>      
+<div class="row">
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">UK</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">US</h3>
+   </div>
+ </div>
+
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;">France</h3>
+   </div>
+ </div>
+<!--
+  <div class="col-md-2">
+    <div class="col-md-10">
+		<h3 style="color:black;"></h3>
+   </div>
+ </div>
+
+ <div class="col-md-2">
+   <div class="col-md-10">
+		<h3 style="color:black;"></h3>
+   </div>
+ </div>
+ 
+</div>
+-->
+<p>&nbsp;</p>
+ 	
+						<p>&nbsp;</p>
+                        <p>&nbsp;</p>
+                       <p style="color:blue;font-style:italic;font-size:170%">  Career Development and Corporate Relations Center at IIT Ropar (CDCRC-IIT Ropar) provides links to a number of external websites via this webpage. Monitoring and reviewing content of these third party external websites is not the responsibility of CDCRC-IIT Ropar nor does the CDCRC-IIT Ropar endorse, approve or recommend the content, owners or operators of websites and applications available through this website.</p>
+
+						</div>
+						
+				</div>
+			</div>		
+	</div>
+
+                    
                              
-                               <ol type=".">
+                    <!--              <ol type=".">
 				
-                       
+                    
      				<h2 style="color:black;font-size:24px;px;font-style:italic;"><li  style="color: #000000;" onmouseover="this.style.color='#21618C';" onmouseout="this.style.color='#000000'"><a href="https://eshorizonte2020.es/expressions-of-interests" style="color: #000000;" onmouseover="this.style.color='#21618C'" onmouseout="this.style.color='#000000'">Study Opportunities in Spain:
       </a> </li>          </h2>
       				<h2 style="color:black;font-size:24px;px;font-style:italic;"><li style="color: #000000;" onmouseover="this.style.color='#21618C';" onmouseout="this.style.color='#000000'"><a href="https://www.study-in.de/en/plan-your-studies/requirements/" style="color: #000000;" onmouseover="this.style.color='#21618C'" onmouseout="this.style.color='#000000'"> Study Opportunities in Germany:</a></li></h2>
@@ -239,32 +531,7 @@
                              </ol>
                            
                         </div>
-
-                  <p>&nbsp;</p>
-                        
-            
-                       
-
-                       
-
-                        
-                       
-                        <p>&nbsp;</p>
-
-                            
-                       <h3 style="color:blue;font-style:italic;">  Career Development and Corporate Relations Center at IIT Ropar (CDCRC-IIT Ropar) provides links to a number of external websites via </h3>
-                        <h3 style="color:blue;font-style:italic;">  this webpage. Monitoring and reviewing content of these third party external websites is not the responsibility of CDCRC-IIT Ropar nor </h3>
-                        <h3 style="color:blue;font-style:italic;">  does the CDCRC-IIT Ropar endorse, approve or recommend the content, owners or operators of websites and applications available</h3>
-                        <h3 style="color:blue;font-style:italic;">  through this website.</h3>
-
-       
-
-       
-
-
-			</div>
-		</div>		
-	</div>
+-->
 
 	
 	<!-- Footer -->
