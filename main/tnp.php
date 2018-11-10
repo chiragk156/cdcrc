@@ -58,7 +58,7 @@ include "common.php";
 							<a href="index.php" class="nav-link dropdown-toggle" id="navbardrop" data-toggle="dropdown">For Recruiters</a>
 							<div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
                                 <a class="dropdown-item" href="recruiters.php">Placement Procedure</a>
-                                <a class="dropdown-item" target="_blank" href="https://drive.google.com/open?id=1eZza_gCHrIis2TsSWn8gwOYv7cuWtFiD">Download JAF</a>
+                                <a class="dropdown-item" target="_blank" href="https://drive.google.com/file/d/1eZza_gCHrIis2TsSWn8gwOYv7cuWtFiD/view?usp=sharing">Download JAF</a>
                                 <a class="dropdown-item" target="_blank" href="https://drive.google.com/open?id=1idFnfF8ZxCAPkY-R8aXAPnA0RyO-Wcm2">Download INF</a>
                             </div>
 						</li>
@@ -172,6 +172,7 @@ include "common.php";
 				  <div class="col-md-8 col-sm-12">
 				  	<div>
                                         <p><h1><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1></p>
+                                        &nbsp;
                                        <h2><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
 <!--<div class="region region-content">
 <div id="block-system-main" class="block block-system">
@@ -182,20 +183,20 @@ include "common.php";
 <div class="field-items">
 <div class="field-item even">-->
 
-<p id="main_text" align="justify" style="color: #535b60;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered the most toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered one of the toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">Being the pioneer batch of the institute, the students have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The students at IIT Ropar have been instrumental in shaping the institute by forming co-curricular societies and student bodies and organising institute-level events.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">The students have to complete 10-week mandatory internship program. Overwhelming response was received from the organizations where the students underwent internship this year and the students have been certified as highly productive and industry ready.</p>
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The students have to complete a 10-week mandatory internship program. Organizations continually appreciate the hard work of IIT Ropar students and recognize them for their talent, innovation and industry readiness.</p>
 
-<p id="main_text" align="justify" style="color: #535b60;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
-
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The students also work on their major B.Tech projects in the final year of their study, which involves solving current industrial and other research oriented problems that involve potential products which may be commercialized in future.</p>
+&nbsp;
 <h2 class="page-title"><i class="fas fa-angle-right"></i>&nbsp;Selection Process</h2>
 <!--<p> &nbsp;&nbsp;<br />-->
 
-<p id="main_text" align="justify" style="color: #535b60;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
+<p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The selection to various programmes at IIT Ropar is extremely stringent to ensure that only the best of the students throughout the country secure admission. The admission to various programmes is carried out through highly competitive entrance examinations and procedures. Admission to B.Tech programmes is based on the JEE (Joint Entrance Examination) and that to the Doctoral Programme (PhD) is based on a centralized examination, GATE (Graduate Aptitude Test in Engineering), along with examinations and interviews conducted by each department within the institute.</p>
 								</div>
                             </div>
                                  <div class="col-md-4 col-sm-12">
@@ -605,13 +606,13 @@ include "common.php";
 	        		<center><h1>Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:100px;" /></li>
+					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c9.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c3.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c4.jpg" style="height:65px;max-width:100px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c6.jpg" style="height:65px;max-width:100px;" ></li>
 					</ul>
@@ -669,7 +670,7 @@ include "common.php";
 							</div>
 						</div>
 
-						<p class="footer_about_text">In aliquam, augue a gravida rutrum, ante nisl fermentum nulla, vitae tempor nisl ligula vel nunc. Proin quis mi malesuada, finibus tortor fermentum, tempor lacus.</p>
+						<p class="footer_about_text">Content to be added</p>
 
 					</div>
 

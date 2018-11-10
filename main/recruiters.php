@@ -158,7 +158,7 @@ body
                          	<img src="images/email.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
-						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 2</strong>. Company can register by sending the filled JAF attached with an e-mail to placement @iitrpr.ac.in or fill the online JAF available on T&P webpage. Download JAF:https//goo.gl/dzzjzE Fill JAF online: https://goo.gl/NUJPeM </h3></div></div>
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;">Step 2. Company can register by sending the filled JAF attached with an e-mail to placement @iitrpr.ac.in or fill the online JAF available on T&P webpage.<a style="color:white;" href="https://drive.google.com/file/d/1eZza_gCHrIis2TsSWn8gwOYv7cuWtFiD/view?usp=sharing"> <u><br>Download JAF </u></a></h3></div></div>
 						<!--<h3 style="color:black;"><strong>Step 3</strong>. After receiving filled in Job Announcement Form (JAF) and relevant information from a company T&amp;P Cell will reply within 2-3 working days through email. The dates for campus interviews are allotted on the basis of information provided in JAF.</p>
 						-->
 						<div style="display: table; width: 100%;">
@@ -193,7 +193,7 @@ body
                          	<img src="images/test.png" style="width: 60px; height: auto; margin-right: 10px; margin-top: 30px;">
                          </div>
                          <div style="display: table-cell;">
-						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 7. </strong>The companies may also, if interested, conduct selections for summer internships of the pre-final year students during the placement drive. The companies are requested to send us the filled in Internship Notification Form (INF) for it on placement@iitrpr.ac.in</h3></div></div>
+						<h3 style="color:white;padding-top:10px;padding-bottom:10px;padding-left:20px;padding-right:20px;background-color:#21618C; border-radius: 10px;"><strong>Step 7. </strong>The companies may also, if interested, conduct selections for summer internships of the pre-final year students during the placement drive. The companies are requested to send us the filled in Internship Notification Form (INF) for it on placement@iitrpr.ac.in <a style="color:white;" href="https://drive.google.com/open?id=1idFnfF8ZxCAPkY-R8aXAPnA0RyO-Wcm2"> <u><br>Download INF </u></a></h3></div></div>
 
 						<h2 style="color:#191970;font-style:italic; margin-top: 10px;">IMPORTANT NOTE :</p>
 						 
@@ -346,13 +346,13 @@ body
 	        		<center><h1 style="color:black;">Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:100px;" /></li>
+					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c9.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c3.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c4.jpg" style="height:65px;max-width:100px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c6.jpg" style="height:65px;max-width:100px;" ></li>
 					</ul>
