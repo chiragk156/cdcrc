@@ -28,7 +28,7 @@ td
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="50" width="50">
+					<img src="images/iitlogo.png" alt="" height="60" width="60">
 					<span>IIT Ropar</span>
 				</div>
 			</div>
@@ -64,7 +64,7 @@ td
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
 			<img src="images/phone-call.svg" alt="">
-			<span>+91 78142 52244</span>
+			<span>+91 86990 20183</span>
 		</div>
 
 		<!-- Hamburger -->

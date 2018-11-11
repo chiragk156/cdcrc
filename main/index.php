@@ -29,7 +29,7 @@ include "common.php";
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="50" width="50">
+					<img src="images/iitlogo.png" alt="" height="60" width="60">
 					<span>IIT Ropar</span>
 					<div class="cdcrc"><h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3></div>
 				</div>
@@ -38,10 +38,10 @@ include "common.php";
 			<!-- Main Navigation -->
 			<nav class="main_nav_container">
 				<div class="main_nav">
-					<ul class="main_nav_list">
+					<ul class="main_nav_list" >
 						<li class="main_nav_item dropdown">
 							<a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown" style="margin-left: 50px;">Home</a>
-                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF">
+                            <div class="dropdown-menu" style="background: #21618C; color: #FFFFFF;">
                                 <a class="dropdown-item" href="directordesk.php">From The Director's Desk</a>
                                 <a class="dropdown-item" href="role.php">Role of CDCRC</a>
                                 <a class="dropdown-item" href="structure.php">Structure of CDCRC</a>
@@ -467,7 +467,6 @@ include "common.php";
 			<div class="footer_bar d-flex flex-column flex-sm-row align-items-center">
 				<div class="footer_copyright">
 					<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 				</div>
 				<div class="footer_social ml-sm-auto">
