@@ -293,7 +293,7 @@ entrepreneurs and help them in all the possible ways to succeed.
                                                                 <h3>HOD Professional Development:</h3>
 								<h4 style="font-style:italic;"> hod.pd@iitrpr.ac.in</h4>
                                                                 <h3>Placement and Corporate Relations Manager</h3>
-								<h4 style="font-style:italic;"> subodh.sharma@iitrpr.ac.in,  8699020183</h4>
+								<h4 style="font-style:italic;"> placement@iitrpr.ac.in,  8699020183</h4>
                                                                 <h3>CDCRC Office: </h3>
 								<h4 style="font-style:italic;">cdcrc.office@iitrpr.ac.in</h4>
                                                                 <h3>IIT Ropar Corporate Relations Office: </h3>

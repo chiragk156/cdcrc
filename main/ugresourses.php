@@ -23,7 +23,7 @@
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 				</div>
 			</div>
@@ -224,6 +224,8 @@
                        
                            </div>
                        </div>
+                       
+                       
 
                        
 
@@ -237,15 +239,18 @@
                        
                            </div>
                        </div>
-
-
                        
-
-                          
                        
+					<div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/3sK3wJAxGfs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
 
-
-
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+								<iframe width="560" height="315" src="https://www.youtube.com/embed/YY1ERM-NIBY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       
+                           </div>
+                       </div>
 
                       
                         <p>&nbsp;</p>

@@ -174,15 +174,6 @@ include "common.php";
                                         <p><h1><i class="fas fa-angle-right"></i> &nbsp;Why IIT Ropar?</h1></p>
                                         &nbsp;
                                        <h2><i class="fas fa-angle-right"></i>&nbsp;Students-IIT Ropar</h2>
-<!--<div class="region region-content">
-<div id="block-system-main" class="block block-system">
-<div class="content">
-<div class="content node-page">
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
-<p>&nbsp;&nbsp;</p>
-<div class="field-items">
-<div class="field-item even">-->
-
 <p id="main_text" align="justify" style="color: #535b60;font-size:130%;">The undergraduates at IIT Ropar are scrutinized through IIT-JEE, which is considered one of the toughest examination across the globe. Only top 2% of the students make it to the IIT&#8217;s.</p>
 
 <p id="main_text" align="justify" style="color: #535b60;font-size:130%;">Students are exposed to the most modern and up-to-date curriculum and contemporary developments in various disciplines of engineering. In addition to scientific and engineering skills, our graduates have been moulded into well-rounded personalities, given their exposure to team work on projects, presentation and communication skills and active participation in extracurricular activities.</p>
@@ -226,7 +217,7 @@ include "common.php";
                                                                 <h3>HOD Professional Development:</h3>
 								<h4 style="font-style:italic;"> hod.pd@iitrpr.ac.in</h4>
                                                                 <h3>Placement and Corporate Relations Manager</h3>
-								<h4 style="font-style:italic;"> subodh.sharma@iitrpr.ac.in,  8699020183</h4>
+								<h4 style="font-style:italic;"> placement@iitrpr.ac.in,  8699020183</h4>
                                                                 <h3>CDCRC Office: </h3>
 								<h4 style="font-style:italic;">cdcrc.office@iitrpr.ac.in</h4>
                                                                 <h3>IIT Ropar Corporate Relations Office: </h3>

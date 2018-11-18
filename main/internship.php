@@ -23,7 +23,7 @@
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 				</div>
 			</div>

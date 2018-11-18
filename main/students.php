@@ -23,7 +23,7 @@
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 				</div>
 			</div>
@@ -59,7 +59,7 @@
 		</div>
 		<div class="header_side d-flex flex-row justify-content-center align-items-center">
 			<img src="images/phone-call.svg" alt="">
-			<span>+91 86990 20183</span>
+			<span>+91 78142 52244</span>
 		</div>
 
 		<!-- Hamburger -->
@@ -159,13 +159,13 @@
 	        		<center><h1>Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:100px;" /></li>
+					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c9.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c3.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c4.jpg" style="height:65px;max-width:100px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c6.jpg" style="height:65px;max-width:100px;" ></li>
 					</ul>

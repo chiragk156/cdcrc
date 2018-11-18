@@ -11,7 +11,30 @@
 <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/courses_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/courses_responsive.css">
+<style>
+div.profs {
+    text-align: center;
+}
+img.prof_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+p.prof_sign {
+   line-height: 120%;
+}
 
+.column {
+    float: left;
+    width: 50%;
+}
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
 </head>
 <body>
 
@@ -142,64 +165,36 @@
 		<div class="container">
 			<div class="row" style="color:#535b60;">
 				  <div class="col-md-10 col-sm-12">
-                                        <pre><h1 style="color:black;">                         <strong><strong>Training and Placement Team:</strong></strong></h1></pre>
-<p>&nbsp;</p>
-<!--<div class="region region-content">
-<div id="block-system-main" class="block block-system">
-<div class="content">
-<div class="content node-page">
-<div class="field field-name-body field-type-text-with-summary field-label-hidden">
-<div class="field-items">
-<div class="field-item even">
-<table>
-<tbody>
-<tr>
-<td><strong><strong>Head, Training &amp; Placement :</strong></strong></td>
-</tr>
-<tr>
-<td width="100%"><strong>Dr. Dhiraj K. Mahajan</strong><br />
-<a href="mailto:hod.placement@iitrpr.ac.in">hod.placement@iitrpr.ac.in</a><br />
-Mob: +91-78142-52244</td>
-</tr>
-</tbody>
-<tbody>
-<tr>
-<td><strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></td>
-</tr>
-<tr>
-<td width="100%"><strong>Mr. Subodh Sharma</strong><br />
-<a href="mailto:placement@iitrpr.ac.in">placement@iitrpr.ac.in</a><br />
-Mob: +91-86990-20183</td>
-</tr>
-</tbody>
-</table>-->
-    
-<pre><h2><strong><strong>Head, Training &amp; Placement :</strong></strong>                                        <strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></h2></pre>
        
-                 <div class="row">
-                     
-                        <img style="margin-left:65px;width:190px;height:200px;"src="http://www.iitrpr.ac.in/sites/default/files/SmilingPassportPhotoOriginal.jpg">
-                   
-
-                    
-                        <img  style="margin-left:340px;" src="https://media.licdn.com/dms/image/C5103AQHXHSgbxd6J_w/profile-displayphoto-shrink_200_200/0?e=1536192000&v=beta&t=fppZQM2ccdJ9R542UcqxFPtU5i3-YvbZ__Vi7nLwm5s">
-                    
-                 </div>
 
 
-<pre><h2 style="margin-top:5px;">        <strong>Dr. Dhiraj K. Mahajan</strong>                                                                    <strong>Mr. Subodh Sharma</strong>     
-      <span style="font-size:18px;"> hod.placement@iitrpr.ac.in                                                                                    placement@iitrpr.ac.in
-            Mob: +91-78142-52244                                                                                        Mob: +91-86990-20183</span></h2></pre>
+       <div class="profs" >
+			
+			<pre><h1 style="color:black;align:center;"><strong>Training and Placement Team:</strong></h1></pre>
+			<p>&nbsp;</p>
+			<p>&nbsp;</p>			
+		   	<img class="prof_img" style="align:center;" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/DhirajSir.jpeg">
+		   	<br>
+		   	<pre><h1 style="text-align:center;color:black;"><strong>Head, Training &amp; Placement</strong></h1></pre>
+		   	<pre><p class="prof_sign" style="text-align:center;color:black;font-size:180%"><strong>Dr. Dhiraj K. Mahajan<br class="prof_br">Mob: +91-78142-52244<br>hod.placement@iitrpr.ac.in</strong></p></pre>
+		   	
+		   	<p>&nbsp;</p><p>&nbsp;</p>
+		   	 <div class="row">
+					<div class="column">
+						<img class="prof_img" style="align:center;" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/SubodhSir.png"><br><pre><h1 style="text-align:center;color:black;"><strong>Placement &amp; Corporate<br> Relations Manager</strong></h1></pre><pre><p class="prof_sign" style="text-align:center;color:black;font-size:180%"><strong>Dr. Dhiraj K. Mahajan<br class="prof_br">Mob: +91-78142-52244<br>placement@iitrpr.ac.in</strong></p></pre>	
+					</div>
+					<div class="column">
+						<img class="prof_img" style="align:center;" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/SubodhSir.png"><br><pre><h1 style="text-align:center;color:black;"><strong>Head, Training &amp; Placement</strong></h1></pre><pre><p class="prof_sign" style="text-align:center;color:black;font-size:180%"><strong>Dr. Dhiraj K. Mahajan<br class="prof_br">Mob: +91-78142-52244<br>placement@iitrpr.ac.in</strong></p></pre>	
+					</div>
+			</div>  
+			<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>		
+			<div>
+				<pre><h1 style="text-align:center;color:black;"><strong><strong>Students Team:</strong></strong></h1></pre>
+			</div>      	
+       </div>
+       
 
-<!--<h2><strong><strong>Placement &amp; Corporate Relations Manager:</strong></strong></h2>
-<h2><strong>Mr. Subodh Sharma</strong></h2>
-<h3><a href="mailto:placement@iitrpr.ac.in">placement@iitrpr.ac.in</a>
-Mob: +91-86990-20183</h3></pre>-->
 
-
-<p>&nbsp;</p>
-<pre><h1 style="color:black;">                                     <strong><strong>Students Team:</strong></strong></h1></pre>
-<p>&nbsp;</p></div></div>
 <!--<table style="height: 855px;" width="601" align="left">
 <tbody>
 <tr>
@@ -240,7 +235,7 @@ Mob: +91-86990-20183</h3></pre>-->
 <td width="">-->
 <!--<div class="row">
   <div class="col-md-4 col-sm-12">-->
-<div class="row">
+<div class="row" >
    <div class="col-md-4 col-sm-12">
 <strong><img class="alignnone wp-image-713" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/RohanEE.png" alt="Rohan" width="170" height="180" /></strong></p>
 </div>
@@ -330,7 +325,7 @@ Mob: +91-86990-20183</h3></pre>-->
  
  <div class="row">
    <div class="col-md-4 col-sm-12">
-<strong><img class="alignnone wp-image-710" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/Prerna-CS.jpg" alt="Prerna" width="170" height="180" /></strong></p>
+<strong><img class="alignnone wp-image-710" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/prerna-cs-.jpg" alt="Prerna" width="170" height="180" /></strong></p>
 </div>
   <div class="col-md-4 col-sm-12">
 <strong><img class="alignnone wp-image-700" src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/VikrantSyal_Civil.jpg" alt="Vikrant" width="170" height="180" srcset="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/10/VikrantSyal_Civil.jpg" sizes="(max-width: 179px) 100vw, 179px" /></strong>
@@ -554,13 +549,13 @@ Mob: +91-86990-20183</h3></pre>-->
 	        		<center><h1 style="color:black;">Past Recruiters</h1>
 	        		<marquee>
 	        		<ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden;">
-					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:100px;" /></li>
+					    <li style="float: left; margin-left: 30px"><img src="images/c1.png" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c2.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c9.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c8.jpg" style="height:65px;max-width:150px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c11.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c3.jpg" style="height:65px;max-width:100px;" /></li>
-                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:100px;" /></li>
+                        <li style="float: left; margin-left: 30px"><img src="images/c10.jpg" style="height:65px;max-width:150px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c4.jpg" style="height:65px;max-width:100px;" /></li>
                         <li style="float: left; margin-left: 30px"><img src="images/c6.jpg" style="height:65px;max-width:100px;" ></li>
 					</ul>

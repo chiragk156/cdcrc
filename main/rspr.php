@@ -23,7 +23,7 @@
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 				</div>
 			</div>
@@ -169,11 +169,49 @@
 					</div>
 				</div>
 			</div>
+			<p>
+			&nbsp;
+			&nbsp;
+			&nbsp;
+			</p>
+			<div class="row">
+				
+				<div id="imgGallary1" style="position:relative;width:600px;height:600px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 100%;">
+					<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/20180904_104959.jpg" alt="" width="100%" height="100%" />
+					<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/20180904_104746.jpg" alt="" width="100%" height="100%" />
+					<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/20180904_104800.jpg" alt="" width="100%" height="100%" />
+					<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/20180904_104846.jpg" alt="" width="100%" height="100%" />
+					<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/20180904_104820.jpg" alt="" width="100%" height="100%" />
+				</div>
+				
+				<script>
+					(function(){
+							var imgLen = document.getElementById('imgGallary1');
+							var images = imgLen.getElementsByTagName('img');
+							var counter = 1;
+
+							if(counter <= images.length){
+								setInterval(function(){
+									images[0].src = images[counter].src;
+									console.log(images[counter].src);
+									counter++;
+
+									if(counter === images.length){
+										counter = 1;
+									}
+								},2000);
+							}
+					})();
+					</script>
+			</div>
+			
 			<div class="row">
 				&nbsp;<h2 style="color: #000000;">CDCRC is working with the Dean (Research) office to encourage research scholars to conceptualize and develop an IIT Ropar Peer Learning initiative, with the intention to develop a learning community where the students will be organizing workshops. For 2018 the following workshops have been organized</h2>
 				<iframe style="width: 100%; height: 600px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSgWRTgDispQ5ZAABC9_jK1A3PZPa_Y0dfkT4mTcovr6AVAJ_safbH3Z68ZWec_uD0lFtpRH9Cv-y0X/pubhtml?widget=true&amp;headers=false"></iframe>
 
 			</div>
+			
+			
 		</div>		
 	</div>
 

@@ -203,15 +203,81 @@
                                 <h2 style="color:black;font-size:24px;margin-left:20px;font-style:italic;"><li style="color: #000000;" onmouseover="this.style.color='#21618C';" onmouseout="this.style.color='#000000'"><a href="https://careers.nationalpostdoc.org/" style="color: #000000;" onmouseover="this.style.color='#21618C'" onmouseout="this.style.color='#000000'" > National Post Document</a></li></h2>
                              </ol>
                            
+                        </div></li>
+                         <p>&nbsp;</p>
+					
+					<div class="row">
+				<h2 style="color:black;font-size:30px;">Video Resources for Research Scholars</h2>
                         </div>
                         
-            
+                        
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                            
+                            	<iframe width="560" height="315" src="https://www.youtube.com/embed/Hp7Id3Yb9XQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+                           
+                           <iframe width="560" height="315" src="https://www.youtube.com/embed/sT_-owjKIbA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                       
+                           </div>
+                       </div>
+
+
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                            <iframe width="560" height="315" src="https://www.youtube.com/embed/jLPCdDp_LE0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                       
+                           </div>
+
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+                           <iframe width="560" height="315" src="https://www.youtube.com/embed/wTE87rlaLiY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
+                       </div>
+
+
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                              									 <iframe width="560" height="315" src="https://www.youtube.com/embed/H_MhOWQpEws" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
+
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+								                                                         <iframe width="560" height="315" src="https://www.youtube.com/embed/lcOjSzEEAGU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+                           </div>
+                       </div>
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
+                       
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/c0KYU2j0TM4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+                           </div>
+
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+								                                                   <iframe width="560" height="315" src="https://www.youtube.com/embed/THPN1Tz-Fe4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                           </div>
+                       </div>
+                       
+                        <div class="row">
+                            <div class="col-md-6 col-xs-12">
                        
 
-                         <p>&nbsp;</p>
+                                              								       <iframe width="560" height="315" src="https://www.youtube.com/embed/arj7oStGLkU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    
+                           </div>
 
-                        
+                           <div class="col-md-6 col-md-offset-0  col-xs-12">
+								                                                   																<iframe width="560" height="315" src="https://www.youtube.com/embed/0KmimDq4cSU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>     
+
+                           </div>
+                       </div>
+                       
+                       
 			<div class="row">
+				<p>&nbsp;</p>
+				<p>&nbsp;</p>
 				<h2 style="color:black;font-size:30px;">Some of the following articles/webpages suggested by students may prove to be an interesting read:
    </h2>
                         </div>
