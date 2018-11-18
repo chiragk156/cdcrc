@@ -26,7 +26,7 @@ include "common.php";
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 					<div class="cdcrc"><h3 style="color: #FFFFFF;">Career Development and<br>Corporate Relations Centre</h3></div>
 				</div>
@@ -183,32 +183,33 @@ include "common.php";
 			<div class="row" style="color: #000000;">
 				  <div class="col-md-8 col-sm-12">
 				  	<div>
-                        <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development@IIT Ropar</h1>
+                        <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development at IIT Ropar</h1>
                         &nbsp;<h2 style="padding-left: 1em;">Professional Development in IIT Ropar caters to the following needs for the IIT Ropar student community:</h2>
                         <ul style="list-style-type:disc;">
-                        	<li><p style="font-size:130%; color:black;padding-left: 1em;">Facilitating discovery of potential, interests and aptitudes (self-discovery).</p></li>
-                        	<li><p style="font-size:130%; color:black;padding-left: 1em;">Organizing opportunities for students on developing effective communication skills (e.g. resumes, group discussions and interviews) and gearing them up for lifelong learning.</p></li>
-                        	<li><p style="font-size:130%; color:black;padding-left: 1em;">Organizing speaking opportunities and workshops by professionals (e.g. IIT alumni, faculty, Human Resource Professionals, Entrepreneurs, Industries, Research Organizations-Domestic and International) who are interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</p></li>
-                        	<li><p style="font-size:130%; color:black;padding-left: 1em;">Recommending and developing resources for professional development (e.g. library development, peer-learning initiatives, adult learning)  for the future scientific and technical workforce.</p></li>
+                        	<li><p style="font-size:170%; color:black;padding-left: 1em;">Facilitating discovery of potential, interests and aptitudes (self-discovery).</p></li>
+                        	<li><p style="font-size:170%; color:black;padding-left: 1em;">Organizing opportunities for students on developing effective communication skills (e.g. resumes, group discussions and interviews) and gearing them up for lifelong learning.</p></li>
+                        	<li><p style="font-size:170%; color:black;padding-left: 1em;">Organizing speaking opportunities and workshops by professionals (e.g. IIT alumni, faculty, Human Resource Professionals, Entrepreneurs, Industries, Research Organizations-Domestic and International) who are interested in inspiring and enabling achievement-oriented and talented IIT Ropar students.</p></li>
+                        	<li><p style="font-size:170%; color:black;padding-left: 1em;">Recommending and developing resources for professional development (e.g. library development, peer-learning initiatives, adult learning)  for the future scientific and technical workforce.</p></li>
                         </ul>
                         
                                  
 					</div>
 					&nbsp;
 					<div>
-                        <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development : Learning Community</h1>
+                        <h1><i class="fas fa-angle-right"></i> &nbsp;Learning Community</h1>
                         &nbsp;
-                        <p style="font-size:130%; color:black;">At the suggestion of Mr. Subodh Sharma, Placement and Corporate Relations Centre students were encouraged to begin a “Learning Community”. A Learning Community is a student-led study group where initial encouragement is provided by Professional Development @IIT Ropar through a small development grant in the form of support for books periodicals.<br>
-The philosophy behind a “Learning Community” is to help students achieve their dreams and aspirations which may not be addressed through a typical placement activity in a technology school. The Learning Communities are useful to address career options like preparation for management and serving the country through Administrative and Defence Services. We encourage students for ideas and interested personnel to get in touch with us for participation in panel discussion or sessions.
-						</p>
+                        
 						
 						
-					<div id="imgGallary1" style="position:relative;width:300px;height:300px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 50%;">
+					<div id="imgGallary1" style="position:relative;width:600px;height:600px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 100%;">
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/cdcrc1.png" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Learning-Community-IAS.jpg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/cdcrc1.png" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Learning-Community-IAS.jpg" alt="" width="100%" height="100%" />
 					</div>
+					<p align="justify" style="font-size:170%; color:black;">At the suggestion of Mr. Subodh Sharma, Placement and Corporate Relations Centre students were encouraged to begin a “Learning Community”. A Learning Community is a student-led study group where initial encouragement is provided by Professional Development @IIT Ropar through a small development grant in the form of support for books periodicals.<br>
+The philosophy behind a “Learning Community” is to help students achieve their dreams and aspirations which may not be addressed through a typical placement activity in a technology school. The Learning Communities are useful to address career options like preparation for management and serving the country through Administrative and Defence Services. We encourage students for ideas and interested personnel to get in touch with us for participation in panel discussion or sessions.
+						</p>
 					<script>
 					(function(){
 							var imgLen = document.getElementById('imgGallary1');
@@ -233,12 +234,10 @@ The philosophy behind a “Learning Community” is to help students achieve the
 					
 					&nbsp;
 					<div>
-                        <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development : Bridging Connections</h1>
+                        <h1><i class="fas fa-angle-right"></i> &nbsp;Bridging Connections</h1>
                         &nbsp;
-					<p style="font-size:130%; color:black;">An important aspect of Professional Development @ IIT Ropar is to bridge connections between IIT Ropar and institutions. In association with the Corporate Relations section we strive to identify learning opportunities between organizations and IIT Ropar. These learning opportunities could be in the form of supporting organizations of professional interest (e.g. Lean-In, Toastmasters and Society for Women Engineers: planned for 2018-19) to visiting academic and research institutions to learn and engage from the best and share with our community.</p>
 					
-					
-					<div id="imgGallary2" style="position:relative;width:300px;height:300px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 50%;">
+					<div id="imgGallary2" style="position:relative;width:600px;height:600px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 100%;">
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/NID-Ahmedabad.jpg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/American-Center-Interaction-3.jpg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/IIM-Ahmedabad-1.jpg" alt="" width="100%" height="100%" />
@@ -248,6 +247,7 @@ The philosophy behind a “Learning Community” is to help students achieve the
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Invest-India-1.jpeg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Ankush-Khera.png" alt="" width="100%" height="100%" />
 					</div>
+				<p align="justify" style="font-size:170%; color:black;">An important aspect of Professional Development @ IIT Ropar is to bridge connections between IIT Ropar and institutions. In association with the Corporate Relations section we strive to identify learning opportunities between organizations and IIT Ropar. These learning opportunities could be in the form of supporting organizations of professional interest (e.g. Lean-In, Toastmasters and Society for Women Engineers: planned for 2018-19) to visiting academic and research institutions to learn and engage from the best and share with our community.</p>
 					<script>
 					(function(){
 							var imgLen = document.getElementById('imgGallary2');
@@ -271,15 +271,16 @@ The philosophy behind a “Learning Community” is to help students achieve the
 					
 					&nbsp;
 					<div>
-                        <h1><i class="fas fa-angle-right"></i> &nbsp;Professional Development : Enhancing Student Mobility</h1>
+                        <h1><i class="fas fa-angle-right"></i> &nbsp;Enhancing Student Mobility</h1>
                         &nbsp;
-					<p style="font-size:130%; color:black;">The Professional Development section of the Career Development and Corporate Relations Centre is working continually on connecting students to best available opportunities beyond the rich academic environment of IIT Ropar. In 2018, our students have participated in various initiatives ranging from representing their research in industry forums to sharing their opinion on issues of global and national importance. At IIT Ropar we always encourage interested organizations to share opportunities where our talented students could showcase their potential.</p>
-
-					<div id="imgGallary3" style="position:relative;width:300px;height:300px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 50%;">
+					
+					<div id="imgGallary3" style="position:relative;width:600px;height:600px;border-radius:5px;border:1px solid black;overflow:hidden;display: block;margin-left: auto;margin-right: auto;width: 100%;">
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/FIPI-Women-In-Energy-2018-1.jpg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/Young-Thinkers-Conference-2018.jpg" alt="" width="100%" height="100%" />
 						<img src="http://www.iitrpr.ac.in/TP/wp-content/uploads/2018/11/CII-Manufacturing-Excellence.jpg" alt="" width="100%" height="100%" />
 					</div>
+					<p align="justify" style="font-size:170%; color:black;">The Professional Development section of the Career Development and Corporate Relations Centre is working continually on connecting students to best available opportunities beyond the rich academic environment of IIT Ropar. In 2018, our students have participated in various initiatives ranging from representing their research in industry forums to sharing their opinion on issues of global and national importance. At IIT Ropar we always encourage interested organizations to share opportunities where our talented students could showcase their potential.</p>
+
 					<script>
 					(function(){
 							var imgLen = document.getElementById('imgGallary3');
@@ -341,7 +342,7 @@ The philosophy behind a “Learning Community” is to help students achieve the
                                                                 <h3>HOD Professional Development:</h3>
 								<h4 style="font-style:italic;"> hod.pd@iitrpr.ac.in</h4>
                                                                 <h3>Placement and Corporate Relations Manager</h3>
-								<h4 style="font-style:italic;"> subodh.sharma@iitrpr.ac.in,  8699020183</h4>
+								<h4 style="font-style:italic;"> placement@iitrpr.ac.in,  8699020183</h4>
                                                                 <h3>CDCRC Office: </h3>
 								<h4 style="font-style:italic;">cdcrc.office@iitrpr.ac.in</h4>
                                                                 <h3>IIT Ropar Corporate Relations Office: </h3>
