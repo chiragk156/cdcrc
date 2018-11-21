@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Corporate Relations | IIT Ropar</title>
+<title>Departments | IIT Ropar</title>
 <link rel="shortcut icon" href="images/iitlogo.png" />
 <meta charset="utf-8">
+<link rel="stylesheet" href="assets/css/material-kit.css">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Course Project">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -11,6 +12,11 @@
 <link href="plugins/fontawesome-free-5.0.1/css/fontawesome-all.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="styles/courses_styles.css">
 <link rel="stylesheet" type="text/css" href="styles/courses_responsive.css">
+<style>
+td
+ {font-size:20px;}
+</style>
+
 </head>
 <body>
 
@@ -23,13 +29,14 @@
 			<!-- Logo -->
 			<div class="logo_container">
 				<div class="logo">
-					<img src="images/iitlogo.png" alt="" height="60" width="60">
+					<img src="images/iitlogo.png" alt="" height="50" width="50">
 					<span>IIT Ropar</span>
 				</div>
 			</div>
 
 			<!-- Main Navigation -->
-			<nav class="main_nav_container">
+			
+<nav class="main_nav_container">
 				<div class="main_nav">
 					<ul class="main_nav_list">
 						<li class="main_nav_item dropdown">
@@ -48,7 +55,7 @@
 						</li>
 						<li class="main_nav_item"><a href="#">Sponsored Research</a></li>
 						<li class="main_nav_item"><a href="#">Central Lab Facility</a></li>
-						<li class="main_nav_item"><a class="nav-link" href="#">Departments</a></li>
+						<!--<li class="main_nav_item"><a class="nav-link" href="#">Departments</a></li>-->
 						<li class="main_nav_item"><a href="#">Research Domains</a></li>
 					</ul>
 				</div>
@@ -78,36 +85,27 @@
 		<div class="menu_inner menu_mm">
 			<div class="menu menu_mm">
 				<ul class="menu_list menu_mm">
-					
-				<!-- Menu Social -->
-				
-				<div class="menu_social_container menu_mm">
-					<ul class="menu_social menu_mm">
-                                                <li class="menu_social_item menu_mm dropdown">
-							<a href="index.php" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Home</a>
+                                        <li class="menu_item menu_mm dropdown">
+							<a href="index.php" class="dropdown-toggle" id="navbardrop" data-toggle="dropdown">Home</a>
 							<div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Home</a>
+								<a class="dropdown-item" href="corporate.php">Home</a>
                                 <a class="dropdown-item" href="index.php">CDCRC Home</a>
                             </div>
 						</li>
-						<li class="menu_social_item menu_mm dropdown">
-							<a href="index.php" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Industrial</a>
-							<div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Consultancy</a>
-                                <a class="dropdown-item" href="#">Sponsored Research</a>
+						<li class="menu_item menu_mm dropdown">
+							<a href="#" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Industrial</a>
+                            <div class="dropdown-menu">
+							<a class="dropdown-item" href="#">Consultancy</a>
+                                <a class="dropdown-item" href="#">Membership</a>
                             </div>
 						</li>
-						<li class="menu_social_item menu_mm dropdown">
-							<a href="index.php" class=" dropdown-toggle" id="navbardrop" data-toggle="dropdown">Facilities</a>
-							<div class="dropdown-menu">
-                                <a class="dropdown-item" href="#">Central Research Facility</a>
-                                <a class="dropdown-item" href="departments.php">Departments</a>
-                                <a class="dropdown-item" href="#">Research Domain</a>
-                            </div>
-						</li>
-						                                    </ul>
+						<li class="menu_item menu_mm"><a href="recruiters.php">Sponsored Research</a></li>
+						<li class="menu_item menu_mm"><a href="placementsummary.php">Central Lab Facility</a></li>
+						<li class="menu_item menu_mm"><a href="contacts.php">Research Domain</a></li>
+                                        
+						</ul>
 
-                         <!-- Menu Social -->
+				<!-- Menu Social -->
 				
 				<div class="menu_social_container menu_mm">
 					<ul class="menu_social menu_mm">
@@ -124,195 +122,200 @@
 		</div>
 		<div class="menu_copyright menu_mm">Colorlib All rights reserved</div>
 	</div>
-
-
-
 	
 	<!-- Home -->
 
 	<div class="home">
 		<div class="home_background_container prlx_parent">
-			<div class="home_background prlx" style="background-image:url(images/courses_background.jpg)"></div>
+			<div class="home_background prlx" style="background-image:url(images/summary.jpg)"></div>
 		</div>
 		<div class="home_content">
 			<h1>Departments</h1>
 		</div>
 
 	</div>
-
-<div class="popular page_section">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Engineering</h1>
-					</div>
-				</div>
-			</div>
-
-			<div class="row course_boxes">
-				
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/chemical.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Chemical</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/civil.jpeg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Civil</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/computer.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Computer Science</a></div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/electrical.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Electrical</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/mechanical.jpeg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Mechanical</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/mme.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Metallurgical and Materials</a></div>
-						</div>
-					</div>
-				</div>
-
-			</div>
-		</div>		
-	</div>
+	<!-- Popular -->
 
 	<div class="popular page_section">
+		<div class="container-fluid" style="padding-left:7%;">
+		<ul class="nav nav-pills nav-pills-info">
+				<li class="nav-item"><a class="nav-link active" href="#cbme" data-toggle="tab">Center for <br> Biomedical <br> Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#chemical" data-toggle="tab">Chemical<br> Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#pill3" data-toggle="tab">Chemistry</a></li>
+				<li class="nav-item"><a class="nav-link" href="#pill2" data-toggle="tab">Civil<br> Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#pill2" data-toggle="tab">Computer<br>Science &amp <br>Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#ee" data-toggle="tab">Electrical<br> Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#ee" data-toggle="tab">Hummanities <br> &amp Social <br>Sciences</a></li>
+				<li class="nav-item"><a class="nav-link" href="#pill3" data-toggle="tab">Mathematics</a></li>	
+				<li class="nav-item"><a class="nav-link" href="#pill2" data-toggle="tab">Mechanical<br> Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#ee" data-toggle="tab">Metallurgical <br> &amp Materials <br>Engineering</a></li>
+				<li class="nav-item"><a class="nav-link" href="#pill3" data-toggle="tab">Physics</a></li>
+				</ul>
+		</div>
 		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Sciences</h1>
+				<div class="tab-content tab-space">
+				<div class="card tab-pane active" style="padding:5%;" id="cbme">
+					Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
+					<br><br>Dramatically maintain clicks-and-mortar solutions without functional solutions.
+					</div>
+				<div class="card tab-pane" style="padding:5%;"id="chemical">
+					<div class="row">
+					<div class="col-md-2">
+						<ul class="nav nav-pills nav-pills-rose flex-column">
+						<li class="nav-item"><a class="nav-link active" href="#research" data-toggle="tab">Research</a></li>
+						<li class="nav-item"><a class="nav-link" href="#faculty" data-toggle="tab">Faculty</a></li>
+						</ul>
+					</div>
+					<div class="col-md-10">
+						<div class="tab-content">
+							<div class="tab-pane active" id="research">
+							 	<img src="images/chemicalmatrix.jpeg" style="width:90%; height:120vh" alt="">
+							</div>
+							<div class="tab-pane" id="faculty">
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/rajchhabra.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Raj Chhabra</h2>
+								<h3 style="color:black">Professor</h3>
+								<h3 style="color:black">Ph.D, Monash University, Melbourne</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">chhabra@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/manoranjanmishra.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Manoranjan Mishra</h2>
+								<h3 style="color:black">Associate Professor</h3>
+								<h3 style="color:black">Ph.D. (IISc, Banglore)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">manoranjan@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/vishwajeetmehandia.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Vishwajeet Mehandia</h2>
+								<h3 style="color:black">Assistant Professor</h3>
+								<h3 style="color:black">Ph.D. (IISc, Banglore)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">vishwajeet@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/tarakmondal.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Tarak Modal</h2>
+								<h3 style="color:black">Associate Professor</h3>
+								<h3 style="color:black">Ph.D. IIT Delhi</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">chhabra@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/neelkanthnirmalkar.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Neelkanth Nirmalkar</h2>
+								<h3 style="color:black">DST Inspire Faculty</h3>
+								<h3 style="color:black">Ph.D (IIT Kanpur)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">n.nirmalkar@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/himanshupaliwal.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Himanshu Paliwal</h2>
+								<h3 style="color:black">Assistant Professor</h3>
+								<h3 style="color:black">Ph.D. (University of Virginia, Charlottesville)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">himanshu.paliwal@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/swatipatel.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Swati Patel</h2>
+								<h3 style="color:black">Assistant Professor</h3>
+								<h3 style="color:black">Ph.D (IIT Kanpur)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">pswati@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/asadsahir.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Asad H. Sahir</h2>
+								<h3 style="color:black">Assistant Professor</h3>
+								<h3 style="color:black">Ph.D. (University of Utah, Salt Lake City)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">asad.sahir@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							<br>
+							<div class = "row">
+								<div class = "col-md-4">
+									<img src="images/faculty/chemical/chandisasmal.jpg" alt="">
+								</div>
+								<div class ="col-md-8" style="font-color:black">
+								<h2 style="color:black">Chandi Sasmal</h2>
+								<h3 style="color:black">Assistant Professor</h3>
+								<h3 style="color:black">Ph.D. (Monash University, Melbourne)</h3>	
+								<h3><a href="chhabra@iitrpr.ac.in">csasmal@iitrpr.ac.in</a></h3>
+								</div>
+							</div>
+							</div>
+						</div>
 					</div>
 				</div>
+				<!-- <h2>Raj Chhabra</h2><br><h3>Professor</h3><br><h3>Ph.D, Monash University, Melbourne</h3><br><br> -->
+				</div>
+					<div class="card tab-pane" style="padding:5%;"id="ee">
+					<h1 style="color:black;">Power Engineering</h1>
+					<ul style="list-style-type:disc;">
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Renewable energy systems: planning and economics, Decision making in power network management</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Mechanism of Conduction and Breakdown in Dielectrics, Space Charges in Dielectrics, HVDC Cables and accessories, High Voltage Engineering, Nano Dielectrics.</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Wide area monitoring and control systems, application of optimization techniques to power systems, voltage stability assessment and control</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Power system dynamics & stability studies, synchro-phasor technology & its applications, state estimation in power systems.</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Multilevel Inverters, PWM Techniques, Open end winding Drive</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Power electronics & drives</p></li>
+						<li><p style="font-size:110%; color:black;padding-left: 0.5em;">Converter Topologies and Control Techniques for Renewable Energy Systems,Electric Vehicles.</p></li>
+					</ul>
+
+					</div>
+					<div class="card tab-pane" style="padding:5%;" id="pill2">
+					Efficiently unleash cross-media information without cross-media value. Quickly maximize timely deliverables for real-time schemas.
+					<br><br>Dramatically maintain clicks-and-mortar solutions without functional solutions.
+					</div>
+					<div class="card tab-pane" style="padding:5%;" id="pill3">
+						Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas.
+						<br><br>Dynamically innovate resource-leveling customer service for state of the art customer service.
+					</div>
+				</div>
+
+
 			</div>
-
-			<div class="row course_boxes">
-				
-				<!-- Popular Course Item -->
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/chemistry.jpeg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Chemistry</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/physics.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Physics</a></div>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/mathematics.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Mathematics</a></div>
-						</div>
-					</div>
-				</div>
-				
-
-			</div>
-		</div>		
 	</div>
+</div>
 
-	<div class="popular page_section">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Humanities</h1>
-					</div>
-				</div>
-			</div>
 
-			<div class="row course_boxes">
-				
-				<!-- Popular Course Item -->
-			<center>
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/humanities.png">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Humanities and Social Sciences</a></div>
-						</div>
-					</div>
-				</div>
-			</center>
 
-			</div>
-		</div>		
-	</div>
-
-	<div class="popular page_section">
-		<div class="container">
-			<div class="row">
-				<div class="col">
-					<div class="section_title text-center">
-						<h1>Centers</h1>
-					</div>
-				</div>
-			</div>
-
-			<div class="row course_boxes">
-				
-				<!-- Popular Course Item -->
-			<center>
-				<div class="col-lg-4 course_box">
-					<div class="card">
-						<img class="card-img-top" src="images/cbme.jpg">
-						<div class="card-body text-center">
-							<div class="card-title"><a href="#">Center for BioMedical Engineering</a></div>
-						</div>
-					</div>
-				</div>
-			</center>
-
-			</div>
-		</div>		
-	</div>
-	
-	<!-- Footer -->
+<!-- Footer -->
 
 	<footer class="footer">
 		<div class="container">
@@ -366,21 +369,6 @@
 					<!-- Footer Column - Menu -->
 
 					<div class="col-lg-3 footer_col">
-						<div class="footer_column_title">Menu</div>
-						<div class="footer_column_content">
-							<ul>
-								<li class="footer_list_item"><a href="#">Home</a></li>
-								<li class="footer_list_item"><a href="#">About Us</a></li>
-								<li class="footer_list_item"><a href="#">Courses</a></li>
-								<li class="footer_list_item"><a href="#">News</a></li>
-								<li class="footer_list_item"><a href="#">Contact</a></li>
-							</ul>
-						</div>
-					</div>
-
-					<!-- Footer Column - Usefull Links -->
-
-					<div class="col-lg-3 footer_col">
 						<div class="footer_column_title">Useful Links</div>
 						<div class="footer_column_content">
 							<ul>
@@ -401,9 +389,10 @@
 							<ul>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
-										<img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g">
+									    <a href="https://goo.gl/maps/QyCu9pe4NYr"><img src="images/placeholder.svg" alt="https://www.flaticon.com/authors/lucy-g"></a>
 									</div>
-									Rupnagar, Punjab
+									<!--Rupnagar, Punjab-->
+                                                                        <a href="https://goo.gl/maps/QyCu9pe4NYr" style="color:#a5a5a5;;"> How to Reach IIT Ropar</a>
 								</li>
 								<li class="footer_contact_item">
 									<div class="footer_contact_icon">
